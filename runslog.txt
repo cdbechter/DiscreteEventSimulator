@@ -1,0 +1,254 @@
+Trial 1:
+
+Seed: 0
+INIT_TIME: 0
+FIN_TIME: 1000
+ARRIVE_MIN: 10
+ARRIVE_MAX: 30
+QUIT_PROB: 0.200000
+CPU_MIN: 10
+CPU_MAX: 30
+DISK1_MIN: 10
+DISK1_MAX: 30
+DISK2_MIN: 10
+DISK2_MAX: 30
+
+Average Size of Each Queue.
+Priority Queue average 345.977173
+CPU average 247.371384
+Disk1 average 8.859969
+Disk2 average 8.426180
+
+Max Size of Each Queue.
+Priority Queue max 677
+CPU max 526
+Disk1 max 14
+Disk2 max 15
+
+Average Response Time.
+CPU Average Response Time 21.219513
+Disk1 Average Response Time 19.000000
+Disk2 Average Response Time 24.125000
+
+Max Response Time.
+CPU max Response Time 30
+Disk1 max Response Time 29
+Disk2 max Response Time 29
+
+Utilization. Process Time / Total Time
+CPU Utilization 870.000000, 1000.000000: 0.870000
+Disk1 Utilization 152.000000, 1000.000000: 0.152000
+Disk2 Utilization 193.000000, 1000.000000: 0.193000
+
+Throughput. Process Job count / Total Time
+Throughput of CPU 41, 1000.000000,: 0.041000
+Throughput of DISK1 8, 1000.000000,: 0.008000
+Throughput of DISK2 8, 1000.000000,: 0.008000
+
+Total time spent: 0.038577s
+ ----------------------------------------------
+ Trial 2:
+
+Seed: 1
+INIT_TIME: 0
+FIN_TIME: 1000
+ARRIVE_MIN: 10
+ARRIVE_MAX: 30
+QUIT_PROB: 0.200000
+CPU_MIN: 10
+CPU_MAX: 30
+DISK1_MIN: 10
+DISK1_MAX: 30
+DISK2_MIN: 10
+DISK2_MAX: 30
+
+Average Size of Each Queue.
+Priority Queue average 382.012299
+CPU average 280.589600
+Disk1 average 10.403557
+Disk2 average 10.361149
+
+Max Size of Each Queue.
+Priority Queue max 748
+CPU max 585
+Disk1 max 18
+Disk2 max 19
+
+Average Response Time.
+CPU Average Response Time 19.913044
+Disk1 Average Response Time 17.500000
+Disk2 Average Response Time 18.714285
+
+Max Response Time.
+CPU max Response Time 30
+Disk1 max Response Time 30
+Disk2 max Response Time 29
+
+Utilization. Process Time / Total Time
+CPU Utilization 916.000000, 1000.000000: 0.916000
+Disk1 Utilization 105.000000, 1000.000000: 0.105000
+Disk2 Utilization 131.000000, 1000.000000: 0.131000
+
+Throughput. Process Job count / Total Time
+Throughput of CPU 46, 1000.000000,: 0.046000
+Throughput of DISK1 6, 1000.000000,: 0.006000
+Throughput of DISK2 7, 1000.000000,: 0.007000
+
+Total time spent: 0.044916s
+ ----------------------------------------------
+ Trial 3:
+
+Seed: 2
+INIT_TIME: 0
+FIN_TIME: 1000
+ARRIVE_MIN: 10
+ARRIVE_MAX: 30
+QUIT_PROB: 0.200000
+CPU_MIN: 10
+CPU_MAX: 30
+DISK1_MIN: 10
+DISK1_MAX: 30
+DISK2_MIN: 10
+DISK2_MAX: 30
+
+Average Size of Each Queue.
+Priority Queue average 229.911362
+CPU average 143.872726
+Disk1 average 10.890909
+Disk2 average 11.127273
+
+Max Size of Each Queue.
+Priority Queue max 449
+CPU max 296
+Disk1 max 22
+Disk2 max 21
+
+Average Response Time.
+CPU Average Response Time 18.804348
+Disk1 Average Response Time 56.666668
+Disk2 Average Response Time 25.333334
+
+Max Response Time.
+CPU max Response Time 30
+Disk1 max Response Time 132
+Disk2 max Response Time 29
+
+Utilization. Process Time / Total Time
+CPU Utilization 865.000000, 1000.000000: 0.865000
+Disk1 Utilization 170.000000, 1000.000000: 0.170000
+Disk2 Utilization 76.000000, 1000.000000: 0.076000
+
+Throughput. Process Job count / Total Time
+Throughput of CPU 46, 1000.000000,: 0.046000
+Throughput of DISK1 3, 1000.000000,: 0.003000
+Throughput of DISK2 3, 1000.000000,: 0.003000
+
+Total time spent: 0.028471s
+ ----------------------------------------------
+ Trial 4:
+
+Seed: 2
+INIT_TIME: 0
+FIN_TIME: 1000
+ARRIVE_MIN: 0
+ARRIVE_MAX: 30
+QUIT_PROB: 0.200000
+CPU_MIN: 0
+CPU_MAX: 30
+DISK1_MIN: 0
+DISK1_MAX: 30
+DISK2_MIN: 0
+DISK2_MAX: 30
+
+Average Size of Each Queue.
+Priority Queue average 360.786530
+CPU average 247.859604
+Disk1 average 12.275072
+Disk2 average 12.925502
+
+Max Size of Each Queue.
+Priority Queue max 709
+CPU max 517
+Disk1 max 23
+Disk2 max 23
+
+Average Response Time.
+CPU Average Response Time 14.661290
+Disk1 Average Response Time 20.000000
+Disk2 Average Response Time 11.000000
+
+Max Response Time.
+CPU max Response Time 30
+Disk1 max Response Time 25
+Disk2 max Response Time 29
+
+Utilization. Process Time / Total Time
+CPU Utilization 909.000000, 1000.000000: 0.909000
+Disk1 Utilization 60.000000, 1000.000000: 0.060000
+Disk2 Utilization 44.000000, 1000.000000: 0.044000
+
+Throughput. Process Job count / Total Time
+Throughput of CPU 62, 1000.000000,: 0.062000
+Throughput of DISK1 3, 1000.000000,: 0.003000
+Throughput of DISK2 4, 1000.000000,: 0.004000
+
+Total time spent: 0.040784s
+ ----------------------------------------------
+ Trial 5:
+ 
+Seed: 2
+INIT_TIME: 0
+FIN_TIME: 1000
+ARRIVE_MIN: 10
+ARRIVE_MAX: 300
+QUIT_PROB: 0.200000
+CPU_MIN: 10
+CPU_MAX: 300
+DISK1_MIN: 10
+DISK1_MAX: 300
+DISK2_MIN: 10
+DISK2_MAX: 300
+
+Average Size of Each Queue.
+Priority Queue average 18.518518
+CPU average 6.555555
+Disk1 average 0.222222
+Disk2 average 1.481481
+
+Max Size of Each Queue.
+Priority Queue max 32
+CPU max 14
+Disk1 max 1
+Disk2 max 2
+
+Average Response Time.
+CPU Average Response Time 203.000000
+Disk1 Average Response Time nan
+Disk2 Average Response Time 144.000000
+
+Max Response Time.
+CPU max Response Time 235
+Disk1 max Response Time 0
+Disk2 max Response Time 182
+
+Utilization. Process Time / Total Time
+CPU Utilization 609.000000, 1000.000000: 0.609000
+Disk1 Utilization 0.000000, 1000.000000: 0.000000
+Disk2 Utilization 288.000000, 1000.000000: 0.288000
+
+Throughput. Process Job count / Total Time
+Throughput of CPU 3, 1000.000000,: 0.003000
+Throughput of DISK1 0, 1000.000000,: 0.000000
+Throughput of DISK2 2, 1000.000000,: 0.002000
+
+Total time spent: 0.005645s
+ ----------------------------------------------
+
+
+As we see through the RUNS i did, changing the SEED did change the different variables, but not by much
+maybe around 10% which was expected with the other config variables all staying the same. Changing 
+the MINs though in trial 4 should very litter difference, 0 mins didnt produce much, BUT changing the 
+MAX's in trial 5 produced wildly different results. All the averages and max's for the queues fell 
+dramatically which makes sense because they had longer to remain in the queues until the simulation is 
+over which was set for each of them at 1000 for simplicity. Kinda wild, MIN produced little change, 
+MAX produced huge change.

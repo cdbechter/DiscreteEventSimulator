@@ -1,0 +1,2784 @@
+At time 0, Job1 arrives at CPU Queue.
+At time 0, Job1 is in CPU.
+At time 10, Job2 arrives at CPU Queue.
+At time 25, Job3 arrives at CPU Queue.
+At time 28, Job1 finishes at CPU.
+At time 28, Job1 exits.
+At time 36, Job4 arrives at CPU Queue.
+At time 36, Job2 is in CPU.
+At time 49, Job5 arrives at CPU Queue.
+At time 50, Job2 finishes at CPU.
+At time 50, Job2 exits.
+At time 75, Job6 arrives at CPU Queue.
+At time 75, Job3 is in CPU.
+At time 89, Job7 arrives at CPU Queue.
+At time 98, Job3 finishes at CPU.
+At time 98, Job3 arrives at Disk 2.
+At time 119, Job8 arrives at CPU Queue.
+At time 119, Job4 is in CPU.
+At time 126, Job3 finished at Disk 2.
+At time 126, Job3 arrives at CPU Queue.
+At time 130, Job9 arrives at CPU Queue.
+At time 134, Job4 finishes at CPU.
+At time 134, Job4 arrives at Disk 1.
+At time 146, Job11 arrives at CPU Queue.
+At time 146, Job5 is in CPU.
+At time 148, Job4 finished at Disk 1.
+At time 148, Job4 arrives at CPU Queue.
+At time 155, Job10 arrives at CPU Queue.
+At time 157, Job5 finishes at CPU.
+At time 157, Job5 exits.
+At time 164, Job13 arrives at CPU Queue.
+At time 164, Job6 is in CPU.
+At time 166, Job12 arrives at CPU Queue.
+At time 183, Job6 finishes at CPU.
+At time 183, Job6 arrives at Disk 2.
+At time 184, Job14 arrives at CPU Queue.
+At time 184, Job7 is in CPU.
+At time 187, Job15 arrives at CPU Queue.
+At time 191, Job16 arrives at CPU Queue.
+At time 204, Job17 arrives at CPU Queue.
+At time 207, Job7 finishes at CPU.
+At time 207, Job7 arrives at Disk 1.
+At time 211, Job19 arrives at CPU Queue.
+At time 211, Job8 is in CPU.
+At time 212, Job6 finished at Disk 2.
+At time 212, Job6 arrives at CPU Queue.
+At time 216, Job18 arrives at CPU Queue.
+At time 225, Job7 finished at Disk 1.
+At time 225, Job7 arrives at CPU Queue.
+At time 229, Job8 finishes at CPU.
+At time 229, Job8 arrives at Disk 2.
+At time 234, Job20 arrives at CPU Queue.
+At time 234, Job3 is in CPU.
+At time 236, Job22 arrives at CPU Queue.
+At time 238, Job23 arrives at CPU Queue.
+At time 240, Job21 arrives at CPU Queue.
+At time 240, Job24 arrives at CPU Queue.
+At time 240, Job8 finished at Disk 2.
+At time 240, Job8 arrives at CPU Queue.
+At time 252, Job27 arrives at CPU Queue.
+At time 255, Job29 arrives at CPU Queue.
+At time 256, Job25 arrives at CPU Queue.
+At time 258, Job3 finishes at CPU.
+At time 258, Job30 arrives at CPU Queue.
+At time 258, Job9 is in CPU.
+At time 258, Job3 arrives at Disk 1.
+At time 259, Job26 arrives at CPU Queue.
+At time 270, Job28 arrives at CPU Queue.
+At time 271, Job32 arrives at CPU Queue.
+At time 272, Job31 arrives at CPU Queue.
+At time 272, Job3 finished at Disk 1.
+At time 272, Job3 arrives at CPU Queue.
+At time 275, Job34 arrives at CPU Queue.
+At time 282, Job35 arrives at CPU Queue.
+At time 284, Job36 arrives at CPU Queue.
+At time 286, Job33 arrives at CPU Queue.
+At time 286, Job9 finishes at CPU.
+At time 286, Job9 exits.
+At time 289, Job37 arrives at CPU Queue.
+At time 289, Job11 is in CPU.
+At time 291, Job40 arrives at CPU Queue.
+At time 294, Job38 arrives at CPU Queue.
+At time 295, Job41 arrives at CPU Queue.
+At time 299, Job43 arrives at CPU Queue.
+At time 299, Job44 arrives at CPU Queue.
+At time 301, Job39 arrives at CPU Queue.
+At time 307, Job42 arrives at CPU Queue.
+At time 307, Job11 finishes at CPU.
+At time 307, Job11 exits.
+At time 309, Job47 arrives at CPU Queue.
+At time 309, Job4 is in CPU.
+At time 314, Job45 arrives at CPU Queue.
+At time 320, Job46 arrives at CPU Queue.
+At time 320, Job51 arrives at CPU Queue.
+At time 322, Job4 finishes at CPU.
+At time 322, Job4 arrives at Disk 1.
+At time 327, Job49 arrives at CPU Queue.
+At time 327, Job10 is in CPU.
+At time 329, Job48 arrives at CPU Queue.
+At time 329, Job53 arrives at CPU Queue.
+At time 330, Job50 arrives at CPU Queue.
+At time 332, Job52 arrives at CPU Queue.
+At time 343, Job55 arrives at CPU Queue.
+At time 343, Job57 arrives at CPU Queue.
+At time 346, Job54 arrives at CPU Queue.
+At time 346, Job59 arrives at CPU Queue.
+At time 348, Job58 arrives at CPU Queue.
+At time 350, Job56 arrives at CPU Queue.
+At time 351, Job4 finished at Disk 1.
+At time 351, Job60 arrives at CPU Queue.
+At time 351, Job4 arrives at CPU Queue.
+At time 357, Job10 finishes at CPU.
+At time 357, Job10 arrives at Disk 2.
+At time 358, Job63 arrives at CPU Queue.
+At time 358, Job13 is in CPU.
+At time 361, Job61 arrives at CPU Queue.
+At time 362, Job64 arrives at CPU Queue.
+At time 363, Job66 arrives at CPU Queue.
+At time 364, Job67 arrives at CPU Queue.
+At time 366, Job65 arrives at CPU Queue.
+At time 372, Job62 arrives at CPU Queue.
+At time 372, Job68 arrives at CPU Queue.
+At time 375, Job72 arrives at CPU Queue.
+At time 376, Job73 arrives at CPU Queue.
+At time 381, Job10 finished at Disk 2.
+At time 381, Job10 arrives at CPU Queue.
+At time 382, Job74 arrives at CPU Queue.
+At time 383, Job13 finishes at CPU.
+At time 383, Job13 arrives at Disk 1.
+At time 384, Job71 arrives at CPU Queue.
+At time 384, Job12 is in CPU.
+At time 385, Job76 arrives at CPU Queue.
+At time 387, Job69 arrives at CPU Queue.
+At time 387, Job70 arrives at CPU Queue.
+At time 393, Job75 arrives at CPU Queue.
+At time 397, Job82 arrives at CPU Queue.
+At time 398, Job79 arrives at CPU Queue.
+At time 401, Job77 arrives at CPU Queue.
+At time 401, Job78 arrives at CPU Queue.
+At time 406, Job13 finished at Disk 1.
+At time 406, Job83 arrives at CPU Queue.
+At time 406, Job84 arrives at CPU Queue.
+At time 406, Job13 arrives at CPU Queue.
+At time 407, Job80 arrives at CPU Queue.
+At time 410, Job87 arrives at CPU Queue.
+At time 411, Job89 arrives at CPU Queue.
+At time 413, Job81 arrives at CPU Queue.
+At time 413, Job85 arrives at CPU Queue.
+At time 414, Job12 finishes at CPU.
+At time 414, Job12 arrives at Disk 2.
+At time 417, Job92 arrives at CPU Queue.
+At time 417, Job14 is in CPU.
+At time 419, Job90 arrives at CPU Queue.
+At time 424, Job91 arrives at CPU Queue.
+At time 425, Job95 arrives at CPU Queue.
+At time 425, Job96 arrives at CPU Queue.
+At time 427, Job86 arrives at CPU Queue.
+At time 430, Job88 arrives at CPU Queue.
+At time 430, Job12 finished at Disk 2.
+At time 430, Job12 arrives at CPU Queue.
+At time 431, Job93 arrives at CPU Queue.
+At time 431, Job97 arrives at CPU Queue.
+At time 438, Job94 arrives at CPU Queue.
+At time 438, Job98 arrives at CPU Queue.
+At time 438, Job100 arrives at CPU Queue.
+At time 440, Job105 arrives at CPU Queue.
+At time 445, Job104 arrives at CPU Queue.
+At time 446, Job106 arrives at CPU Queue.
+At time 447, Job14 finishes at CPU.
+At time 447, Job14 exits.
+At time 448, Job102 arrives at CPU Queue.
+At time 448, Job15 is in CPU.
+At time 449, Job99 arrives at CPU Queue.
+At time 453, Job110 arrives at CPU Queue.
+At time 454, Job101 arrives at CPU Queue.
+At time 454, Job103 arrives at CPU Queue.
+At time 455, Job107 arrives at CPU Queue.
+At time 456, Job108 arrives at CPU Queue.
+At time 456, Job111 arrives at CPU Queue.
+At time 461, Job114 arrives at CPU Queue.
+At time 465, Job109 arrives at CPU Queue.
+At time 466, Job113 arrives at CPU Queue.
+At time 466, Job120 arrives at CPU Queue.
+At time 467, Job112 arrives at CPU Queue.
+At time 470, Job118 arrives at CPU Queue.
+At time 472, Job116 arrives at CPU Queue.
+At time 472, Job121 arrives at CPU Queue.
+At time 473, Job115 arrives at CPU Queue.
+At time 473, Job117 arrives at CPU Queue.
+At time 475, Job119 arrives at CPU Queue.
+At time 477, Job15 finishes at CPU.
+At time 477, Job15 exits.
+At time 480, Job123 arrives at CPU Queue.
+At time 480, Job16 is in CPU.
+At time 482, Job122 arrives at CPU Queue.
+At time 484, Job128 arrives at CPU Queue.
+At time 487, Job125 arrives at CPU Queue.
+At time 488, Job129 arrives at CPU Queue.
+At time 489, Job126 arrives at CPU Queue.
+At time 489, Job127 arrives at CPU Queue.
+At time 492, Job124 arrives at CPU Queue.
+At time 497, Job136 arrives at CPU Queue.
+At time 499, Job130 arrives at CPU Queue.
+At time 499, Job131 arrives at CPU Queue.
+At time 499, Job132 arrives at CPU Queue.
+At time 502, Job16 finishes at CPU.
+At time 502, Job134 arrives at CPU Queue.
+At time 502, Job17 is in CPU.
+At time 502, Job16 arrives at Disk 1.
+At time 503, Job138 arrives at CPU Queue.
+At time 509, Job141 arrives at CPU Queue.
+At time 510, Job133 arrives at CPU Queue.
+At time 511, Job135 arrives at CPU Queue.
+At time 511, Job144 arrives at CPU Queue.
+At time 512, Job139 arrives at CPU Queue.
+At time 513, Job146 arrives at CPU Queue.
+At time 514, Job145 arrives at CPU Queue.
+At time 516, Job137 arrives at CPU Queue.
+At time 516, Job16 finished at Disk 1.
+At time 516, Job16 arrives at CPU Queue.
+At time 519, Job140 arrives at CPU Queue.
+At time 519, Job147 arrives at CPU Queue.
+At time 520, Job143 arrives at CPU Queue.
+At time 522, Job17 finishes at CPU.
+At time 522, Job17 arrives at Disk 2.
+At time 529, Job142 arrives at CPU Queue.
+At time 529, Job19 is in CPU.
+At time 534, Job157 arrives at CPU Queue.
+At time 535, Job148 arrives at CPU Queue.
+At time 536, Job150 arrives at CPU Queue.
+At time 537, Job155 arrives at CPU Queue.
+At time 538, Job149 arrives at CPU Queue.
+At time 541, Job152 arrives at CPU Queue.
+At time 542, Job151 arrives at CPU Queue.
+At time 542, Job153 arrives at CPU Queue.
+At time 542, Job154 arrives at CPU Queue.
+At time 546, Job156 arrives at CPU Queue.
+At time 549, Job158 arrives at CPU Queue.
+At time 549, Job161 arrives at CPU Queue.
+At time 551, Job17 finished at Disk 2.
+At time 551, Job19 finishes at CPU.
+At time 551, Job17 arrives at CPU Queue.
+At time 551, Job6 is in CPU.
+At time 551, Job19 arrives at Disk 1.
+At time 553, Job163 arrives at CPU Queue.
+At time 554, Job159 arrives at CPU Queue.
+At time 554, Job162 arrives at CPU Queue.
+At time 554, Job168 arrives at CPU Queue.
+At time 559, Job164 arrives at CPU Queue.
+At time 559, Job169 arrives at CPU Queue.
+At time 560, Job160 arrives at CPU Queue.
+At time 562, Job167 arrives at CPU Queue.
+At time 565, Job165 arrives at CPU Queue.
+At time 569, Job166 arrives at CPU Queue.
+At time 570, Job179 arrives at CPU Queue.
+At time 573, Job19 finished at Disk 1.
+At time 573, Job19 arrives at CPU Queue.
+At time 576, Job170 arrives at CPU Queue.
+At time 577, Job174 arrives at CPU Queue.
+At time 577, Job178 arrives at CPU Queue.
+At time 578, Job173 arrives at CPU Queue.
+At time 578, Job175 arrives at CPU Queue.
+At time 579, Job171 arrives at CPU Queue.
+At time 580, Job6 finishes at CPU.
+At time 580, Job6 arrives at Disk 2.
+At time 581, Job172 arrives at CPU Queue.
+At time 581, Job18 is in CPU.
+At time 582, Job177 arrives at CPU Queue.
+At time 584, Job176 arrives at CPU Queue.
+At time 586, Job180 arrives at CPU Queue.
+At time 591, Job182 arrives at CPU Queue.
+At time 591, Job186 arrives at CPU Queue.
+At time 592, Job187 arrives at CPU Queue.
+At time 593, Job183 arrives at CPU Queue.
+At time 593, Job189 arrives at CPU Queue.
+At time 593, Job191 arrives at CPU Queue.
+At time 595, Job181 arrives at CPU Queue.
+At time 596, Job185 arrives at CPU Queue.
+At time 596, Job193 arrives at CPU Queue.
+At time 598, Job190 arrives at CPU Queue.
+At time 600, Job194 arrives at CPU Queue.
+At time 601, Job18 finishes at CPU.
+At time 601, Job192 arrives at CPU Queue.
+At time 601, Job7 is in CPU.
+At time 601, Job18 arrives at Disk 1.
+At time 603, Job184 arrives at CPU Queue.
+At time 603, Job188 arrives at CPU Queue.
+At time 606, Job200 arrives at CPU Queue.
+At time 608, Job6 finished at Disk 2.
+At time 608, Job197 arrives at CPU Queue.
+At time 608, Job202 arrives at CPU Queue.
+At time 608, Job6 arrives at CPU Queue.
+At time 610, Job198 arrives at CPU Queue.
+At time 612, Job196 arrives at CPU Queue.
+At time 613, Job7 finishes at CPU.
+At time 613, Job207 arrives at CPU Queue.
+At time 613, Job20 is in CPU.
+At time 613, Job7 arrives at Disk 1.
+At time 614, Job206 arrives at CPU Queue.
+At time 615, Job201 arrives at CPU Queue.
+At time 615, Job204 arrives at CPU Queue.
+At time 616, Job199 arrives at CPU Queue.
+At time 616, Job205 arrives at CPU Queue.
+At time 617, Job203 arrives at CPU Queue.
+At time 619, Job18 finished at Disk 1.
+At time 619, Job18 arrives at CPU Queue.
+At time 620, Job195 arrives at CPU Queue.
+At time 621, Job213 arrives at CPU Queue.
+At time 625, Job211 arrives at CPU Queue.
+At time 628, Job20 finishes at CPU.
+At time 628, Job20 arrives at Disk 1.
+At time 630, Job221 arrives at CPU Queue.
+At time 630, Job22 is in CPU.
+At time 631, Job210 arrives at CPU Queue.
+At time 631, Job216 arrives at CPU Queue.
+At time 632, Job208 arrives at CPU Queue.
+At time 633, Job219 arrives at CPU Queue.
+At time 633, Job223 arrives at CPU Queue.
+At time 635, Job218 arrives at CPU Queue.
+At time 636, Job209 arrives at CPU Queue.
+At time 636, Job212 arrives at CPU Queue.
+At time 636, Job225 arrives at CPU Queue.
+At time 639, Job214 arrives at CPU Queue.
+At time 640, Job220 arrives at CPU Queue.
+At time 641, Job217 arrives at CPU Queue.
+At time 643, Job215 arrives at CPU Queue.
+At time 644, Job231 arrives at CPU Queue.
+At time 645, Job222 arrives at CPU Queue.
+At time 646, Job234 arrives at CPU Queue.
+At time 647, Job224 arrives at CPU Queue.
+At time 647, Job226 arrives at CPU Queue.
+At time 652, Job237 arrives at CPU Queue.
+At time 653, Job227 arrives at CPU Queue.
+At time 653, Job232 arrives at CPU Queue.
+At time 653, Job7 arrives at CPU Queue.
+At time 654, Job233 arrives at CPU Queue.
+At time 655, Job22 finishes at CPU.
+At time 655, Job22 arrives at Disk 2.
+At time 656, Job228 arrives at CPU Queue.
+At time 656, Job23 is in CPU.
+At time 657, Job230 arrives at CPU Queue.
+At time 659, Job238 arrives at CPU Queue.
+At time 662, Job229 arrives at CPU Queue.
+At time 663, Job235 arrives at CPU Queue.
+At time 663, Job236 arrives at CPU Queue.
+At time 663, Job241 arrives at CPU Queue.
+At time 663, Job243 arrives at CPU Queue.
+At time 663, Job248 arrives at CPU Queue.
+At time 665, Job239 arrives at CPU Queue.
+At time 665, Job240 arrives at CPU Queue.
+At time 666, Job23 finishes at CPU.
+At time 666, Job23 arrives at Disk 2.
+At time 667, Job247 arrives at CPU Queue.
+At time 667, Job21 is in CPU.
+At time 669, Job246 arrives at CPU Queue.
+At time 671, Job245 arrives at CPU Queue.
+At time 672, Job244 arrives at CPU Queue.
+At time 672, Job251 arrives at CPU Queue.
+At time 674, Job242 arrives at CPU Queue.
+At time 674, Job254 arrives at CPU Queue.
+At time 675, Job256 arrives at CPU Queue.
+At time 677, Job249 arrives at CPU Queue.
+At time 680, Job250 arrives at CPU Queue.
+At time 681, Job263 arrives at CPU Queue.
+At time 683, Job22 finished at Disk 2.
+At time 683, Job253 arrives at CPU Queue.
+At time 683, Job22 arrives at CPU Queue.
+At time 686, Job252 arrives at CPU Queue.
+At time 686, Job260 arrives at CPU Queue.
+At time 686, Job21 finishes at CPU.
+At time 686, Job262 arrives at CPU Queue.
+At time 686, Job24 is in CPU.
+At time 686, Job21 arrives at Disk 1.
+At time 687, Job257 arrives at CPU Queue.
+At time 689, Job255 arrives at CPU Queue.
+At time 689, Job265 arrives at CPU Queue.
+At time 690, Job258 arrives at CPU Queue.
+At time 690, Job268 arrives at CPU Queue.
+At time 691, Job259 arrives at CPU Queue.
+At time 692, Job266 arrives at CPU Queue.
+At time 694, Job261 arrives at CPU Queue.
+At time 695, Job264 arrives at CPU Queue.
+At time 695, Job271 arrives at CPU Queue.
+At time 696, Job274 arrives at CPU Queue.
+At time 697, Job277 arrives at CPU Queue.
+At time 698, Job267 arrives at CPU Queue.
+At time 699, Job269 arrives at CPU Queue.
+At time 701, Job273 arrives at CPU Queue.
+At time 702, Job275 arrives at CPU Queue.
+At time 702, Job24 finishes at CPU.
+At time 702, Job24 exits.
+At time 703, Job279 arrives at CPU Queue.
+At time 703, Job8 is in CPU.
+At time 709, Job276 arrives at CPU Queue.
+At time 710, Job270 arrives at CPU Queue.
+At time 710, Job272 arrives at CPU Queue.
+At time 710, Job286 arrives at CPU Queue.
+At time 711, Job280 arrives at CPU Queue.
+At time 711, Job282 arrives at CPU Queue.
+At time 711, Job287 arrives at CPU Queue.
+At time 714, Job284 arrives at CPU Queue.
+At time 714, Job8 finishes at CPU.
+At time 714, Job8 arrives at Disk 2.
+At time 715, Job285 arrives at CPU Queue.
+At time 715, Job27 is in CPU.
+At time 717, Job278 arrives at CPU Queue.
+At time 717, Job290 arrives at CPU Queue.
+At time 718, Job283 arrives at CPU Queue.
+At time 719, Job288 arrives at CPU Queue.
+At time 720, Job281 arrives at CPU Queue.
+At time 720, Job291 arrives at CPU Queue.
+At time 720, Job292 arrives at CPU Queue.
+At time 721, Job289 arrives at CPU Queue.
+At time 728, Job304 arrives at CPU Queue.
+At time 729, Job296 arrives at CPU Queue.
+At time 729, Job302 arrives at CPU Queue.
+At time 729, Job303 arrives at CPU Queue.
+At time 730, Job307 arrives at CPU Queue.
+At time 731, Job297 arrives at CPU Queue.
+At time 732, Job306 arrives at CPU Queue.
+At time 733, Job293 arrives at CPU Queue.
+At time 733, Job295 arrives at CPU Queue.
+At time 736, Job294 arrives at CPU Queue.
+At time 736, Job300 arrives at CPU Queue.
+At time 737, Job298 arrives at CPU Queue.
+At time 738, Job301 arrives at CPU Queue.
+At time 738, Job310 arrives at CPU Queue.
+At time 739, Job27 finishes at CPU.
+At time 739, Job27 exits.
+At time 740, Job299 arrives at CPU Queue.
+At time 740, Job29 is in CPU.
+At time 740, Job315 arrives at CPU Queue.
+At time 740, Job23 arrives at CPU Queue.
+At time 743, Job305 arrives at CPU Queue.
+At time 743, Job308 arrives at CPU Queue.
+At time 748, Job309 arrives at CPU Queue.
+At time 748, Job311 arrives at CPU Queue.
+At time 748, Job316 arrives at CPU Queue.
+At time 748, Job321 arrives at CPU Queue.
+At time 749, Job312 arrives at CPU Queue.
+At time 749, Job314 arrives at CPU Queue.
+At time 749, Job317 arrives at CPU Queue.
+At time 749, Job322 arrives at CPU Queue.
+At time 750, Job324 arrives at CPU Queue.
+At time 751, Job327 arrives at CPU Queue.
+At time 752, Job313 arrives at CPU Queue.
+At time 753, Job326 arrives at CPU Queue.
+At time 754, Job323 arrives at CPU Queue.
+At time 755, Job319 arrives at CPU Queue.
+At time 755, Job320 arrives at CPU Queue.
+At time 756, Job318 arrives at CPU Queue.
+At time 758, Job325 arrives at CPU Queue.
+At time 758, Job328 arrives at CPU Queue.
+At time 758, Job333 arrives at CPU Queue.
+At time 759, Job29 finishes at CPU.
+At time 759, Job29 arrives at Disk 2.
+At time 761, Job332 arrives at CPU Queue.
+At time 761, Job25 is in CPU.
+At time 764, Job329 arrives at CPU Queue.
+At time 766, Job342 arrives at CPU Queue.
+At time 769, Job336 arrives at CPU Queue.
+At time 769, Job341 arrives at CPU Queue.
+At time 770, Job334 arrives at CPU Queue.
+At time 770, Job340 arrives at CPU Queue.
+At time 771, Job343 arrives at CPU Queue.
+At time 772, Job338 arrives at CPU Queue.
+At time 774, Job339 arrives at CPU Queue.
+At time 774, Job344 arrives at CPU Queue.
+At time 775, Job346 arrives at CPU Queue.
+At time 776, Job330 arrives at CPU Queue.
+At time 776, Job331 arrives at CPU Queue.
+At time 776, Job335 arrives at CPU Queue.
+At time 779, Job337 arrives at CPU Queue.
+At time 779, Job353 arrives at CPU Queue.
+At time 780, Job347 arrives at CPU Queue.
+At time 781, Job25 finishes at CPU.
+At time 781, Job25 exits.
+At time 781, Job350 arrives at CPU Queue.
+At time 781, Job30 is in CPU.
+At time 784, Job348 arrives at CPU Queue.
+At time 785, Job358 arrives at CPU Queue.
+At time 786, Job345 arrives at CPU Queue.
+At time 786, Job354 arrives at CPU Queue.
+At time 786, Job356 arrives at CPU Queue.
+At time 786, Job357 arrives at CPU Queue.
+At time 787, Job349 arrives at CPU Queue.
+At time 787, Job355 arrives at CPU Queue.
+At time 788, Job352 arrives at CPU Queue.
+At time 789, Job363 arrives at CPU Queue.
+At time 791, Job351 arrives at CPU Queue.
+At time 792, Job361 arrives at CPU Queue.
+At time 794, Job359 arrives at CPU Queue.
+At time 794, Job360 arrives at CPU Queue.
+At time 794, Job367 arrives at CPU Queue.
+At time 798, Job365 arrives at CPU Queue.
+At time 798, Job366 arrives at CPU Queue.
+At time 798, Job368 arrives at CPU Queue.
+At time 799, Job372 arrives at CPU Queue.
+At time 800, Job364 arrives at CPU Queue.
+At time 801, Job369 arrives at CPU Queue.
+At time 801, Job374 arrives at CPU Queue.
+At time 802, Job362 arrives at CPU Queue.
+At time 806, Job30 finishes at CPU.
+At time 806, Job379 arrives at CPU Queue.
+At time 806, Job26 is in CPU.
+At time 806, Job30 arrives at Disk 1.
+At time 807, Job373 arrives at CPU Queue.
+At time 807, Job377 arrives at CPU Queue.
+At time 808, Job382 arrives at CPU Queue.
+At time 810, Job375 arrives at CPU Queue.
+At time 810, Job376 arrives at CPU Queue.
+At time 811, Job371 arrives at CPU Queue.
+At time 814, Job370 arrives at CPU Queue.
+At time 814, Job390 arrives at CPU Queue.
+At time 815, Job380 arrives at CPU Queue.
+At time 816, Job388 arrives at CPU Queue.
+At time 817, Job378 arrives at CPU Queue.
+At time 818, Job385 arrives at CPU Queue.
+At time 823, Job381 arrives at CPU Queue.
+At time 823, Job384 arrives at CPU Queue.
+At time 826, Job394 arrives at CPU Queue.
+At time 827, Job387 arrives at CPU Queue.
+At time 827, Job396 arrives at CPU Queue.
+At time 827, Job397 arrives at CPU Queue.
+At time 827, Job398 arrives at CPU Queue.
+At time 828, Job383 arrives at CPU Queue.
+At time 828, Job386 arrives at CPU Queue.
+At time 828, Job403 arrives at CPU Queue.
+At time 830, Job389 arrives at CPU Queue.
+At time 831, Job26 finishes at CPU.
+At time 831, Job26 arrives at Disk 2.
+At time 832, Job391 arrives at CPU Queue.
+At time 832, Job28 is in CPU.
+At time 832, Job399 arrives at CPU Queue.
+At time 833, Job393 arrives at CPU Queue.
+At time 835, Job392 arrives at CPU Queue.
+At time 836, Job405 arrives at CPU Queue.
+At time 837, Job410 arrives at CPU Queue.
+At time 838, Job400 arrives at CPU Queue.
+At time 840, Job395 arrives at CPU Queue.
+At time 840, Job414 arrives at CPU Queue.
+At time 842, Job416 arrives at CPU Queue.
+At time 843, Job401 arrives at CPU Queue.
+At time 843, Job407 arrives at CPU Queue.
+At time 844, Job402 arrives at CPU Queue.
+At time 845, Job412 arrives at CPU Queue.
+At time 847, Job406 arrives at CPU Queue.
+At time 847, Job415 arrives at CPU Queue.
+At time 850, Job408 arrives at CPU Queue.
+At time 850, Job411 arrives at CPU Queue.
+At time 850, Job413 arrives at CPU Queue.
+At time 851, Job404 arrives at CPU Queue.
+At time 851, Job409 arrives at CPU Queue.
+At time 853, Job424 arrives at CPU Queue.
+At time 854, Job420 arrives at CPU Queue.
+At time 857, Job417 arrives at CPU Queue.
+At time 858, Job421 arrives at CPU Queue.
+At time 861, Job28 finishes at CPU.
+At time 861, Job28 arrives at Disk 2.
+At time 862, Job423 arrives at CPU Queue.
+At time 862, Job32 is in CPU.
+At time 863, Job419 arrives at CPU Queue.
+At time 864, Job418 arrives at CPU Queue.
+At time 865, Job422 arrives at CPU Queue.
+At time 866, Job426 arrives at CPU Queue.
+At time 867, Job428 arrives at CPU Queue.
+At time 867, Job434 arrives at CPU Queue.
+At time 868, Job429 arrives at CPU Queue.
+At time 868, Job436 arrives at CPU Queue.
+At time 868, Job439 arrives at CPU Queue.
+At time 869, Job425 arrives at CPU Queue.
+At time 870, Job427 arrives at CPU Queue.
+At time 870, Job432 arrives at CPU Queue.
+At time 871, Job430 arrives at CPU Queue.
+At time 873, Job431 arrives at CPU Queue.
+At time 874, Job32 finishes at CPU.
+At time 874, Job32 arrives at Disk 1.
+At time 875, Job443 arrives at CPU Queue.
+At time 875, Job31 is in CPU.
+At time 876, Job442 arrives at CPU Queue.
+At time 878, Job433 arrives at CPU Queue.
+At time 878, Job448 arrives at CPU Queue.
+At time 880, Job441 arrives at CPU Queue.
+At time 880, Job447 arrives at CPU Queue.
+At time 880, Job449 arrives at CPU Queue.
+At time 881, Job435 arrives at CPU Queue.
+At time 882, Job445 arrives at CPU Queue.
+At time 883, Job446 arrives at CPU Queue.
+At time 884, Job437 arrives at CPU Queue.
+At time 885, Job450 arrives at CPU Queue.
+At time 885, Job451 arrives at CPU Queue.
+At time 887, Job438 arrives at CPU Queue.
+At time 887, Job440 arrives at CPU Queue.
+At time 887, Job454 arrives at CPU Queue.
+At time 889, Job444 arrives at CPU Queue.
+At time 889, Job452 arrives at CPU Queue.
+At time 895, Job460 arrives at CPU Queue.
+At time 895, Job465 arrives at CPU Queue.
+At time 900, Job453 arrives at CPU Queue.
+At time 900, Job462 arrives at CPU Queue.
+At time 901, Job461 arrives at CPU Queue.
+At time 901, Job464 arrives at CPU Queue.
+At time 902, Job455 arrives at CPU Queue.
+At time 902, Job31 finishes at CPU.
+At time 902, Job456 arrives at CPU Queue.
+At time 902, Job3 is in CPU.
+At time 902, Job458 arrives at CPU Queue.
+At time 902, Job463 arrives at CPU Queue.
+At time 902, Job31 arrives at Disk 1.
+At time 904, Job468 arrives at CPU Queue.
+At time 905, Job470 arrives at CPU Queue.
+At time 905, Job472 arrives at CPU Queue.
+At time 906, Job457 arrives at CPU Queue.
+At time 909, Job459 arrives at CPU Queue.
+At time 909, Job467 arrives at CPU Queue.
+At time 910, Job471 arrives at CPU Queue.
+At time 913, Job466 arrives at CPU Queue.
+At time 913, Job480 arrives at CPU Queue.
+At time 914, Job469 arrives at CPU Queue.
+At time 914, Job477 arrives at CPU Queue.
+At time 919, Job3 finishes at CPU.
+At time 919, Job3 arrives at Disk 2.
+At time 921, Job473 arrives at CPU Queue.
+At time 921, Job34 is in CPU.
+At time 922, Job483 arrives at CPU Queue.
+At time 922, Job484 arrives at CPU Queue.
+At time 924, Job474 arrives at CPU Queue.
+At time 924, Job487 arrives at CPU Queue.
+At time 924, Job491 arrives at CPU Queue.
+At time 925, Job490 arrives at CPU Queue.
+At time 926, Job492 arrives at CPU Queue.
+At time 928, Job475 arrives at CPU Queue.
+At time 928, Job478 arrives at CPU Queue.
+At time 930, Job476 arrives at CPU Queue.
+At time 930, Job479 arrives at CPU Queue.
+At time 930, Job481 arrives at CPU Queue.
+At time 930, Job482 arrives at CPU Queue.
+At time 932, Job485 arrives at CPU Queue.
+At time 932, Job486 arrives at CPU Queue.
+At time 937, Job489 arrives at CPU Queue.
+At time 939, Job488 arrives at CPU Queue.
+At time 939, Job493 arrives at CPU Queue.
+At time 939, Job499 arrives at CPU Queue.
+At time 940, Job507 arrives at CPU Queue.
+At time 941, Job495 arrives at CPU Queue.
+At time 941, Job497 arrives at CPU Queue.
+At time 942, Job500 arrives at CPU Queue.
+At time 943, Job496 arrives at CPU Queue.
+At time 945, Job34 finishes at CPU.
+At time 945, Job34 arrives at Disk 2.
+At time 946, Job494 arrives at CPU Queue.
+At time 946, Job35 is in CPU.
+At time 946, Job505 arrives at CPU Queue.
+At time 949, Job498 arrives at CPU Queue.
+At time 949, Job501 arrives at CPU Queue.
+At time 949, Job504 arrives at CPU Queue.
+At time 950, Job508 arrives at CPU Queue.
+At time 950, Job509 arrives at CPU Queue.
+At time 954, Job506 arrives at CPU Queue.
+At time 955, Job503 arrives at CPU Queue.
+At time 956, Job515 arrives at CPU Queue.
+At time 957, Job502 arrives at CPU Queue.
+At time 960, Job513 arrives at CPU Queue.
+At time 960, Job523 arrives at CPU Queue.
+At time 961, Job518 arrives at CPU Queue.
+At time 962, Job510 arrives at CPU Queue.
+At time 962, Job522 arrives at CPU Queue.
+At time 966, Job516 arrives at CPU Queue.
+At time 967, Job514 arrives at CPU Queue.
+At time 967, Job517 arrives at CPU Queue.
+At time 968, Job511 arrives at CPU Queue.
+At time 968, Job512 arrives at CPU Queue.
+At time 971, Job519 arrives at CPU Queue.
+At time 971, Job521 arrives at CPU Queue.
+At time 973, Job533 arrives at CPU Queue.
+At time 974, Job35 finishes at CPU.
+At time 974, Job35 exits.
+At time 974, Job526 arrives at CPU Queue.
+At time 974, Job36 is in CPU.
+At time 975, Job520 arrives at CPU Queue.
+At time 976, Job529 arrives at CPU Queue.
+At time 978, Job525 arrives at CPU Queue.
+At time 978, Job532 arrives at CPU Queue.
+At time 978, Job538 arrives at CPU Queue.
+At time 979, Job524 arrives at CPU Queue.
+At time 979, Job527 arrives at CPU Queue.
+At time 980, Job535 arrives at CPU Queue.
+At time 981, Job530 arrives at CPU Queue.
+At time 983, Job539 arrives at CPU Queue.
+At time 983, Job542 arrives at CPU Queue.
+At time 984, Job528 arrives at CPU Queue.
+At time 987, Job531 arrives at CPU Queue.
+At time 987, Job541 arrives at CPU Queue.
+At time 989, Job534 arrives at CPU Queue.
+At time 991, Job543 arrives at CPU Queue.
+At time 993, Job536 arrives at CPU Queue.
+At time 993, Job537 arrives at CPU Queue.
+At time 993, Job540 arrives at CPU Queue.
+At time 994, Job553 arrives at CPU Queue.
+At time 995, Job36 finishes at CPU.
+At time 995, Job36 exits.
+At time 995, Job549 arrives at CPU Queue.
+At time 995, Job33 is in CPU.
+At time 995, Job555 arrives at CPU Queue.
+At time 997, Job557 arrives at CPU Queue.
+At time 998, Job548 arrives at CPU Queue.
+At time 999, Job545 arrives at CPU Queue.
+At time 999, Job556 arrives at CPU Queue.
+At time 0, Job1 arrives at CPU Queue.
+At time 0, Job1 is in CPU.
+At time 17, Job2 arrives at CPU Queue.
+At time 17, Job1 finishes at CPU.
+At time 17, Job1 arrives at Disk 1.
+At time 29, Job3 arrives at CPU Queue.
+At time 29, Job2 is in CPU.
+At time 47, Job1 finished at Disk 1.
+At time 47, Job2 finishes at CPU.
+At time 47, Job1 arrives at CPU Queue.
+At time 47, Job3 is in CPU.
+At time 47, Job2 arrives at Disk 1.
+At time 48, Job4 arrives at CPU Queue.
+At time 57, Job2 finished at Disk 1.
+At time 57, Job2 arrives at CPU Queue.
+At time 58, Job5 arrives at CPU Queue.
+At time 63, Job3 finishes at CPU.
+At time 63, Job3 arrives at Disk 2.
+At time 67, Job7 arrives at CPU Queue.
+At time 67, Job1 is in CPU.
+At time 73, Job8 arrives at CPU Queue.
+At time 77, Job3 finished at Disk 2.
+At time 77, Job3 arrives at CPU Queue.
+At time 78, Job6 arrives at CPU Queue.
+At time 87, Job9 arrives at CPU Queue.
+At time 95, Job1 finishes at CPU.
+At time 95, Job1 arrives at Disk 2.
+At time 98, Job13 arrives at CPU Queue.
+At time 98, Job4 is in CPU.
+At time 102, Job10 arrives at CPU Queue.
+At time 102, Job11 arrives at CPU Queue.
+At time 102, Job12 arrives at CPU Queue.
+At time 114, Job1 finished at Disk 2.
+At time 114, Job1 arrives at CPU Queue.
+At time 116, Job15 arrives at CPU Queue.
+At time 122, Job14 arrives at CPU Queue.
+At time 124, Job4 finishes at CPU.
+At time 124, Job4 arrives at Disk 1.
+At time 126, Job17 arrives at CPU Queue.
+At time 126, Job2 is in CPU.
+At time 129, Job16 arrives at CPU Queue.
+At time 134, Job19 arrives at CPU Queue.
+At time 134, Job4 finished at Disk 1.
+At time 134, Job4 arrives at CPU Queue.
+At time 137, Job18 arrives at CPU Queue.
+At time 144, Job20 arrives at CPU Queue.
+At time 144, Job24 arrives at CPU Queue.
+At time 149, Job2 finishes at CPU.
+At time 149, Job25 arrives at CPU Queue.
+At time 149, Job5 is in CPU.
+At time 149, Job2 arrives at Disk 1.
+At time 151, Job23 arrives at CPU Queue.
+At time 153, Job22 arrives at CPU Queue.
+At time 154, Job21 arrives at CPU Queue.
+At time 159, Job26 arrives at CPU Queue.
+At time 164, Job2 finished at Disk 1.
+At time 164, Job30 arrives at CPU Queue.
+At time 164, Job2 arrives at CPU Queue.
+At time 165, Job27 arrives at CPU Queue.
+At time 165, Job28 arrives at CPU Queue.
+At time 168, Job29 arrives at CPU Queue.
+At time 171, Job31 arrives at CPU Queue.
+At time 175, Job5 finishes at CPU.
+At time 175, Job5 arrives at Disk 2.
+At time 181, Job35 arrives at CPU Queue.
+At time 181, Job7 is in CPU.
+At time 182, Job36 arrives at CPU Queue.
+At time 183, Job33 arrives at CPU Queue.
+At time 186, Job32 arrives at CPU Queue.
+At time 188, Job34 arrives at CPU Queue.
+At time 188, Job38 arrives at CPU Queue.
+At time 191, Job7 finishes at CPU.
+At time 191, Job7 arrives at Disk 1.
+At time 192, Job39 arrives at CPU Queue.
+At time 192, Job8 is in CPU.
+At time 192, Job40 arrives at CPU Queue.
+At time 193, Job5 finished at Disk 2.
+At time 193, Job5 arrives at CPU Queue.
+At time 197, Job37 arrives at CPU Queue.
+At time 201, Job7 finished at Disk 1.
+At time 201, Job7 arrives at CPU Queue.
+At time 202, Job41 arrives at CPU Queue.
+At time 203, Job45 arrives at CPU Queue.
+At time 205, Job43 arrives at CPU Queue.
+At time 206, Job42 arrives at CPU Queue.
+At time 211, Job44 arrives at CPU Queue.
+At time 212, Job48 arrives at CPU Queue.
+At time 213, Job51 arrives at CPU Queue.
+At time 214, Job46 arrives at CPU Queue.
+At time 216, Job8 finishes at CPU.
+At time 216, Job8 arrives at Disk 2.
+At time 217, Job49 arrives at CPU Queue.
+At time 217, Job3 is in CPU.
+At time 222, Job50 arrives at CPU Queue.
+At time 222, Job52 arrives at CPU Queue.
+At time 223, Job47 arrives at CPU Queue.
+At time 224, Job53 arrives at CPU Queue.
+At time 227, Job57 arrives at CPU Queue.
+At time 234, Job8 finished at Disk 2.
+At time 234, Job8 arrives at CPU Queue.
+At time 238, Job54 arrives at CPU Queue.
+At time 238, Job58 arrives at CPU Queue.
+At time 240, Job55 arrives at CPU Queue.
+At time 240, Job56 arrives at CPU Queue.
+At time 243, Job3 finishes at CPU.
+At time 243, Job3 exits.
+At time 244, Job59 arrives at CPU Queue.
+At time 244, Job6 is in CPU.
+At time 246, Job61 arrives at CPU Queue.
+At time 246, Job62 arrives at CPU Queue.
+At time 247, Job64 arrives at CPU Queue.
+At time 248, Job63 arrives at CPU Queue.
+At time 248, Job66 arrives at CPU Queue.
+At time 252, Job60 arrives at CPU Queue.
+At time 258, Job6 finishes at CPU.
+At time 258, Job6 arrives at Disk 1.
+At time 259, Job70 arrives at CPU Queue.
+At time 259, Job9 is in CPU.
+At time 260, Job65 arrives at CPU Queue.
+At time 260, Job73 arrives at CPU Queue.
+At time 260, Job74 arrives at CPU Queue.
+At time 261, Job67 arrives at CPU Queue.
+At time 263, Job72 arrives at CPU Queue.
+At time 267, Job68 arrives at CPU Queue.
+At time 268, Job69 arrives at CPU Queue.
+At time 268, Job71 arrives at CPU Queue.
+At time 272, Job77 arrives at CPU Queue.
+At time 275, Job80 arrives at CPU Queue.
+At time 276, Job79 arrives at CPU Queue.
+At time 279, Job75 arrives at CPU Queue.
+At time 279, Job9 finishes at CPU.
+At time 279, Job9 arrives at Disk 1.
+At time 284, Job78 arrives at CPU Queue.
+At time 284, Job13 is in CPU.
+At time 285, Job76 arrives at CPU Queue.
+At time 285, Job81 arrives at CPU Queue.
+At time 286, Job86 arrives at CPU Queue.
+At time 288, Job6 finished at Disk 1.
+At time 288, Job6 arrives at CPU Queue.
+At time 290, Job82 arrives at CPU Queue.
+At time 293, Job87 arrives at CPU Queue.
+At time 294, Job83 arrives at CPU Queue.
+At time 295, Job13 finishes at CPU.
+At time 295, Job13 arrives at Disk 1.
+At time 296, Job84 arrives at CPU Queue.
+At time 296, Job10 is in CPU.
+At time 296, Job90 arrives at CPU Queue.
+At time 299, Job93 arrives at CPU Queue.
+At time 301, Job88 arrives at CPU Queue.
+At time 302, Job85 arrives at CPU Queue.
+At time 304, Job89 arrives at CPU Queue.
+At time 305, Job95 arrives at CPU Queue.
+At time 306, Job94 arrives at CPU Queue.
+At time 307, Job91 arrives at CPU Queue.
+At time 311, Job92 arrives at CPU Queue.
+At time 313, Job99 arrives at CPU Queue.
+At time 314, Job10 finishes at CPU.
+At time 314, Job10 exits.
+At time 316, Job97 arrives at CPU Queue.
+At time 316, Job11 is in CPU.
+At time 316, Job100 arrives at CPU Queue.
+At time 317, Job98 arrives at CPU Queue.
+At time 317, Job9 arrives at CPU Queue.
+At time 319, Job104 arrives at CPU Queue.
+At time 320, Job105 arrives at CPU Queue.
+At time 322, Job102 arrives at CPU Queue.
+At time 322, Job103 arrives at CPU Queue.
+At time 324, Job96 arrives at CPU Queue.
+At time 324, Job106 arrives at CPU Queue.
+At time 331, Job101 arrives at CPU Queue.
+At time 332, Job113 arrives at CPU Queue.
+At time 332, Job114 arrives at CPU Queue.
+At time 333, Job110 arrives at CPU Queue.
+At time 334, Job107 arrives at CPU Queue.
+At time 336, Job11 finishes at CPU.
+At time 336, Job11 exits.
+At time 337, Job112 arrives at CPU Queue.
+At time 337, Job12 is in CPU.
+At time 339, Job115 arrives at CPU Queue.
+At time 341, Job111 arrives at CPU Queue.
+At time 342, Job118 arrives at CPU Queue.
+At time 343, Job119 arrives at CPU Queue.
+At time 344, Job109 arrives at CPU Queue.
+At time 346, Job108 arrives at CPU Queue.
+At time 348, Job117 arrives at CPU Queue.
+At time 348, Job122 arrives at CPU Queue.
+At time 349, Job116 arrives at CPU Queue.
+At time 351, Job123 arrives at CPU Queue.
+At time 354, Job125 arrives at CPU Queue.
+At time 357, Job12 finishes at CPU.
+At time 357, Job12 arrives at Disk 2.
+At time 358, Job121 arrives at CPU Queue.
+At time 358, Job1 is in CPU.
+At time 362, Job120 arrives at CPU Queue.
+At time 364, Job131 arrives at CPU Queue.
+At time 364, Job133 arrives at CPU Queue.
+At time 365, Job127 arrives at CPU Queue.
+At time 366, Job130 arrives at CPU Queue.
+At time 367, Job128 arrives at CPU Queue.
+At time 367, Job132 arrives at CPU Queue.
+At time 369, Job124 arrives at CPU Queue.
+At time 369, Job129 arrives at CPU Queue.
+At time 371, Job126 arrives at CPU Queue.
+At time 371, Job12 finished at Disk 2.
+At time 371, Job12 arrives at CPU Queue.
+At time 376, Job135 arrives at CPU Queue.
+At time 377, Job139 arrives at CPU Queue.
+At time 379, Job1 finishes at CPU.
+At time 379, Job144 arrives at CPU Queue.
+At time 379, Job15 is in CPU.
+At time 379, Job1 arrives at Disk 2.
+At time 380, Job134 arrives at CPU Queue.
+At time 383, Job142 arrives at CPU Queue.
+At time 388, Job136 arrives at CPU Queue.
+At time 388, Job143 arrives at CPU Queue.
+At time 389, Job138 arrives at CPU Queue.
+At time 389, Job146 arrives at CPU Queue.
+At time 390, Job150 arrives at CPU Queue.
+At time 392, Job137 arrives at CPU Queue.
+At time 392, Job140 arrives at CPU Queue.
+At time 394, Job145 arrives at CPU Queue.
+At time 394, Job15 finishes at CPU.
+At time 394, Job15 arrives at Disk 1.
+At time 397, Job141 arrives at CPU Queue.
+At time 397, Job14 is in CPU.
+At time 399, Job149 arrives at CPU Queue.
+At time 399, Job155 arrives at CPU Queue.
+At time 400, Job147 arrives at CPU Queue.
+At time 403, Job151 arrives at CPU Queue.
+At time 405, Job148 arrives at CPU Queue.
+At time 406, Job156 arrives at CPU Queue.
+At time 406, Job157 arrives at CPU Queue.
+At time 408, Job1 finished at Disk 2.
+At time 408, Job1 arrives at CPU Queue.
+At time 409, Job153 arrives at CPU Queue.
+At time 410, Job162 arrives at CPU Queue.
+At time 411, Job163 arrives at CPU Queue.
+At time 413, Job154 arrives at CPU Queue.
+At time 413, Job164 arrives at CPU Queue.
+At time 415, Job152 arrives at CPU Queue.
+At time 418, Job160 arrives at CPU Queue.
+At time 418, Job165 arrives at CPU Queue.
+At time 419, Job159 arrives at CPU Queue.
+At time 421, Job158 arrives at CPU Queue.
+At time 423, Job166 arrives at CPU Queue.
+At time 425, Job14 finishes at CPU.
+At time 425, Job14 arrives at Disk 2.
+At time 426, Job168 arrives at CPU Queue.
+At time 426, Job17 is in CPU.
+At time 427, Job161 arrives at CPU Queue.
+At time 427, Job169 arrives at CPU Queue.
+At time 427, Job170 arrives at CPU Queue.
+At time 427, Job173 arrives at CPU Queue.
+At time 429, Job172 arrives at CPU Queue.
+At time 429, Job175 arrives at CPU Queue.
+At time 432, Job167 arrives at CPU Queue.
+At time 435, Job178 arrives at CPU Queue.
+At time 438, Job17 finishes at CPU.
+At time 438, Job181 arrives at CPU Queue.
+At time 438, Job16 is in CPU.
+At time 438, Job17 arrives at Disk 2.
+At time 439, Job186 arrives at CPU Queue.
+At time 441, Job171 arrives at CPU Queue.
+At time 442, Job176 arrives at CPU Queue.
+At time 442, Job179 arrives at CPU Queue.
+At time 443, Job174 arrives at CPU Queue.
+At time 444, Job14 finished at Disk 2.
+At time 444, Job187 arrives at CPU Queue.
+At time 444, Job14 arrives at CPU Queue.
+At time 446, Job177 arrives at CPU Queue.
+At time 446, Job182 arrives at CPU Queue.
+At time 446, Job183 arrives at CPU Queue.
+At time 449, Job190 arrives at CPU Queue.
+At time 450, Job185 arrives at CPU Queue.
+At time 452, Job180 arrives at CPU Queue.
+At time 452, Job184 arrives at CPU Queue.
+At time 454, Job195 arrives at CPU Queue.
+At time 455, Job194 arrives at CPU Queue.
+At time 457, Job188 arrives at CPU Queue.
+At time 459, Job193 arrives at CPU Queue.
+At time 460, Job199 arrives at CPU Queue.
+At time 462, Job203 arrives at CPU Queue.
+At time 463, Job189 arrives at CPU Queue.
+At time 463, Job201 arrives at CPU Queue.
+At time 465, Job16 finishes at CPU.
+At time 465, Job16 exits.
+At time 466, Job198 arrives at CPU Queue.
+At time 466, Job19 is in CPU.
+At time 467, Job191 arrives at CPU Queue.
+At time 467, Job196 arrives at CPU Queue.
+At time 468, Job200 arrives at CPU Queue.
+At time 472, Job192 arrives at CPU Queue.
+At time 472, Job206 arrives at CPU Queue.
+At time 475, Job197 arrives at CPU Queue.
+At time 478, Job204 arrives at CPU Queue.
+At time 478, Job209 arrives at CPU Queue.
+At time 478, Job212 arrives at CPU Queue.
+At time 479, Job205 arrives at CPU Queue.
+At time 479, Job214 arrives at CPU Queue.
+At time 480, Job202 arrives at CPU Queue.
+At time 484, Job207 arrives at CPU Queue.
+At time 485, Job208 arrives at CPU Queue.
+At time 485, Job211 arrives at CPU Queue.
+At time 485, Job217 arrives at CPU Queue.
+At time 486, Job215 arrives at CPU Queue.
+At time 487, Job210 arrives at CPU Queue.
+At time 489, Job19 finishes at CPU.
+At time 489, Job221 arrives at CPU Queue.
+At time 489, Job4 is in CPU.
+At time 489, Job19 arrives at Disk 2.
+At time 491, Job220 arrives at CPU Queue.
+At time 492, Job222 arrives at CPU Queue.
+At time 493, Job218 arrives at CPU Queue.
+At time 495, Job213 arrives at CPU Queue.
+At time 495, Job216 arrives at CPU Queue.
+At time 496, Job223 arrives at CPU Queue.
+At time 496, Job229 arrives at CPU Queue.
+At time 497, Job227 arrives at CPU Queue.
+At time 501, Job224 arrives at CPU Queue.
+At time 502, Job219 arrives at CPU Queue.
+At time 503, Job234 arrives at CPU Queue.
+At time 507, Job233 arrives at CPU Queue.
+At time 509, Job225 arrives at CPU Queue.
+At time 509, Job226 arrives at CPU Queue.
+At time 510, Job228 arrives at CPU Queue.
+At time 510, Job4 finishes at CPU.
+At time 510, Job236 arrives at CPU Queue.
+At time 510, Job18 is in CPU.
+At time 510, Job4 arrives at Disk 2.
+At time 514, Job241 arrives at CPU Queue.
+At time 514, Job17 arrives at CPU Queue.
+At time 515, Job231 arrives at CPU Queue.
+At time 517, Job230 arrives at CPU Queue.
+At time 519, Job232 arrives at CPU Queue.
+At time 519, Job240 arrives at CPU Queue.
+At time 521, Job237 arrives at CPU Queue.
+At time 521, Job238 arrives at CPU Queue.
+At time 523, Job244 arrives at CPU Queue.
+At time 523, Job247 arrives at CPU Queue.
+At time 524, Job235 arrives at CPU Queue.
+At time 525, Job243 arrives at CPU Queue.
+At time 526, Job246 arrives at CPU Queue.
+At time 526, Job250 arrives at CPU Queue.
+At time 527, Job239 arrives at CPU Queue.
+At time 528, Job18 finishes at CPU.
+At time 528, Job18 arrives at Disk 2.
+At time 529, Job248 arrives at CPU Queue.
+At time 529, Job20 is in CPU.
+At time 529, Job253 arrives at CPU Queue.
+At time 531, Job242 arrives at CPU Queue.
+At time 534, Job251 arrives at CPU Queue.
+At time 539, Job245 arrives at CPU Queue.
+At time 539, Job254 arrives at CPU Queue.
+At time 539, Job260 arrives at CPU Queue.
+At time 540, Job249 arrives at CPU Queue.
+At time 540, Job20 finishes at CPU.
+At time 540, Job20 arrives at Disk 1.
+At time 542, Job264 arrives at CPU Queue.
+At time 542, Job24 is in CPU.
+At time 543, Job252 arrives at CPU Queue.
+At time 544, Job258 arrives at CPU Queue.
+At time 548, Job257 arrives at CPU Queue.
+At time 549, Job255 arrives at CPU Queue.
+At time 549, Job261 arrives at CPU Queue.
+At time 550, Job259 arrives at CPU Queue.
+At time 551, Job256 arrives at CPU Queue.
+At time 554, Job262 arrives at CPU Queue.
+At time 556, Job263 arrives at CPU Queue.
+At time 556, Job265 arrives at CPU Queue.
+At time 556, Job269 arrives at CPU Queue.
+At time 556, Job273 arrives at CPU Queue.
+At time 558, Job274 arrives at CPU Queue.
+At time 559, Job276 arrives at CPU Queue.
+At time 560, Job267 arrives at CPU Queue.
+At time 561, Job268 arrives at CPU Queue.
+At time 561, Job272 arrives at CPU Queue.
+At time 563, Job266 arrives at CPU Queue.
+At time 563, Job271 arrives at CPU Queue.
+At time 566, Job281 arrives at CPU Queue.
+At time 567, Job282 arrives at CPU Queue.
+At time 569, Job270 arrives at CPU Queue.
+At time 569, Job24 finishes at CPU.
+At time 569, Job24 exits.
+At time 569, Job275 arrives at CPU Queue.
+At time 569, Job25 is in CPU.
+At time 574, Job279 arrives at CPU Queue.
+At time 575, Job277 arrives at CPU Queue.
+At time 575, Job285 arrives at CPU Queue.
+At time 577, Job288 arrives at CPU Queue.
+At time 579, Job278 arrives at CPU Queue.
+At time 579, Job286 arrives at CPU Queue.
+At time 580, Job293 arrives at CPU Queue.
+At time 580, Job294 arrives at CPU Queue.
+At time 583, Job292 arrives at CPU Queue.
+At time 584, Job284 arrives at CPU Queue.
+At time 585, Job283 arrives at CPU Queue.
+At time 585, Job287 arrives at CPU Queue.
+At time 585, Job289 arrives at CPU Queue.
+At time 585, Job290 arrives at CPU Queue.
+At time 586, Job280 arrives at CPU Queue.
+At time 588, Job291 arrives at CPU Queue.
+At time 590, Job296 arrives at CPU Queue.
+At time 590, Job302 arrives at CPU Queue.
+At time 591, Job25 finishes at CPU.
+At time 591, Job25 arrives at Disk 2.
+At time 593, Job303 arrives at CPU Queue.
+At time 593, Job23 is in CPU.
+At time 595, Job295 arrives at CPU Queue.
+At time 596, Job298 arrives at CPU Queue.
+At time 597, Job297 arrives at CPU Queue.
+At time 597, Job301 arrives at CPU Queue.
+At time 599, Job299 arrives at CPU Queue.
+At time 599, Job307 arrives at CPU Queue.
+At time 600, Job310 arrives at CPU Queue.
+At time 601, Job300 arrives at CPU Queue.
+At time 603, Job306 arrives at CPU Queue.
+At time 604, Job308 arrives at CPU Queue.
+At time 604, Job309 arrives at CPU Queue.
+At time 607, Job304 arrives at CPU Queue.
+At time 607, Job313 arrives at CPU Queue.
+At time 608, Job305 arrives at CPU Queue.
+At time 608, Job311 arrives at CPU Queue.
+At time 609, Job319 arrives at CPU Queue.
+At time 612, Job321 arrives at CPU Queue.
+At time 613, Job312 arrives at CPU Queue.
+At time 614, Job318 arrives at CPU Queue.
+At time 619, Job315 arrives at CPU Queue.
+At time 619, Job325 arrives at CPU Queue.
+At time 620, Job316 arrives at CPU Queue.
+At time 620, Job322 arrives at CPU Queue.
+At time 620, Job328 arrives at CPU Queue.
+At time 621, Job314 arrives at CPU Queue.
+At time 621, Job317 arrives at CPU Queue.
+At time 621, Job326 arrives at CPU Queue.
+At time 623, Job23 finishes at CPU.
+At time 623, Job23 arrives at Disk 1.
+At time 624, Job327 arrives at CPU Queue.
+At time 624, Job22 is in CPU.
+At time 629, Job320 arrives at CPU Queue.
+At time 629, Job323 arrives at CPU Queue.
+At time 630, Job330 arrives at CPU Queue.
+At time 631, Job333 arrives at CPU Queue.
+At time 632, Job331 arrives at CPU Queue.
+At time 633, Job324 arrives at CPU Queue.
+At time 634, Job329 arrives at CPU Queue.
+At time 634, Job332 arrives at CPU Queue.
+At time 634, Job338 arrives at CPU Queue.
+At time 636, Job335 arrives at CPU Queue.
+At time 636, Job337 arrives at CPU Queue.
+At time 638, Job334 arrives at CPU Queue.
+At time 641, Job336 arrives at CPU Queue.
+At time 645, Job340 arrives at CPU Queue.
+At time 645, Job343 arrives at CPU Queue.
+At time 647, Job347 arrives at CPU Queue.
+At time 649, Job339 arrives at CPU Queue.
+At time 649, Job348 arrives at CPU Queue.
+At time 651, Job22 finishes at CPU.
+At time 651, Job22 exits.
+At time 652, Job341 arrives at CPU Queue.
+At time 652, Job21 is in CPU.
+At time 652, Job349 arrives at CPU Queue.
+At time 653, Job350 arrives at CPU Queue.
+At time 657, Job346 arrives at CPU Queue.
+At time 657, Job351 arrives at CPU Queue.
+At time 657, Job352 arrives at CPU Queue.
+At time 658, Job344 arrives at CPU Queue.
+At time 659, Job342 arrives at CPU Queue.
+At time 659, Job359 arrives at CPU Queue.
+At time 661, Job345 arrives at CPU Queue.
+At time 663, Job354 arrives at CPU Queue.
+At time 665, Job353 arrives at CPU Queue.
+At time 666, Job21 finishes at CPU.
+At time 666, Job21 arrives at Disk 2.
+At time 667, Job357 arrives at CPU Queue.
+At time 667, Job26 is in CPU.
+At time 668, Job355 arrives at CPU Queue.
+At time 669, Job356 arrives at CPU Queue.
+At time 669, Job360 arrives at CPU Queue.
+At time 670, Job365 arrives at CPU Queue.
+At time 672, Job363 arrives at CPU Queue.
+At time 672, Job364 arrives at CPU Queue.
+At time 676, Job366 arrives at CPU Queue.
+At time 677, Job358 arrives at CPU Queue.
+At time 677, Job371 arrives at CPU Queue.
+At time 678, Job362 arrives at CPU Queue.
+At time 679, Job369 arrives at CPU Queue.
+At time 680, Job361 arrives at CPU Queue.
+At time 681, Job370 arrives at CPU Queue.
+At time 687, Job374 arrives at CPU Queue.
+At time 688, Job376 arrives at CPU Queue.
+At time 689, Job367 arrives at CPU Queue.
+At time 689, Job368 arrives at CPU Queue.
+At time 690, Job373 arrives at CPU Queue.
+At time 690, Job377 arrives at CPU Queue.
+At time 692, Job380 arrives at CPU Queue.
+At time 694, Job375 arrives at CPU Queue.
+At time 696, Job383 arrives at CPU Queue.
+At time 697, Job372 arrives at CPU Queue.
+At time 697, Job26 finishes at CPU.
+At time 697, Job26 arrives at Disk 1.
+At time 701, Job379 arrives at CPU Queue.
+At time 701, Job30 is in CPU.
+At time 701, Job388 arrives at CPU Queue.
+At time 702, Job378 arrives at CPU Queue.
+At time 703, Job392 arrives at CPU Queue.
+At time 704, Job381 arrives at CPU Queue.
+At time 704, Job384 arrives at CPU Queue.
+At time 705, Job385 arrives at CPU Queue.
+At time 705, Job387 arrives at CPU Queue.
+At time 706, Job382 arrives at CPU Queue.
+At time 707, Job390 arrives at CPU Queue.
+At time 708, Job386 arrives at CPU Queue.
+At time 713, Job391 arrives at CPU Queue.
+At time 714, Job30 finishes at CPU.
+At time 714, Job30 arrives at Disk 2.
+At time 715, Job389 arrives at CPU Queue.
+At time 715, Job2 is in CPU.
+At time 719, Job399 arrives at CPU Queue.
+At time 721, Job393 arrives at CPU Queue.
+At time 722, Job396 arrives at CPU Queue.
+At time 724, Job395 arrives at CPU Queue.
+At time 724, Job400 arrives at CPU Queue.
+At time 725, Job394 arrives at CPU Queue.
+At time 725, Job403 arrives at CPU Queue.
+At time 726, Job405 arrives at CPU Queue.
+At time 727, Job398 arrives at CPU Queue.
+At time 727, Job402 arrives at CPU Queue.
+At time 728, Job401 arrives at CPU Queue.
+At time 730, Job397 arrives at CPU Queue.
+At time 732, Job408 arrives at CPU Queue.
+At time 733, Job406 arrives at CPU Queue.
+At time 734, Job407 arrives at CPU Queue.
+At time 734, Job409 arrives at CPU Queue.
+At time 734, Job410 arrives at CPU Queue.
+At time 735, Job411 arrives at CPU Queue.
+At time 736, Job404 arrives at CPU Queue.
+At time 740, Job2 finishes at CPU.
+At time 740, Job416 arrives at CPU Queue.
+At time 740, Job27 is in CPU.
+At time 740, Job2 arrives at Disk 1.
+At time 743, Job415 arrives at CPU Queue.
+At time 744, Job417 arrives at CPU Queue.
+At time 745, Job413 arrives at CPU Queue.
+At time 745, Job419 arrives at CPU Queue.
+At time 747, Job420 arrives at CPU Queue.
+At time 748, Job425 arrives at CPU Queue.
+At time 749, Job424 arrives at CPU Queue.
+At time 750, Job414 arrives at CPU Queue.
+At time 752, Job423 arrives at CPU Queue.
+At time 753, Job412 arrives at CPU Queue.
+At time 754, Job418 arrives at CPU Queue.
+At time 754, Job427 arrives at CPU Queue.
+At time 755, Job421 arrives at CPU Queue.
+At time 755, Job432 arrives at CPU Queue.
+At time 756, Job426 arrives at CPU Queue.
+At time 756, Job428 arrives at CPU Queue.
+At time 760, Job429 arrives at CPU Queue.
+At time 762, Job422 arrives at CPU Queue.
+At time 764, Job27 finishes at CPU.
+At time 764, Job430 arrives at CPU Queue.
+At time 764, Job28 is in CPU.
+At time 764, Job438 arrives at CPU Queue.
+At time 764, Job27 arrives at Disk 1.
+At time 765, Job431 arrives at CPU Queue.
+At time 765, Job435 arrives at CPU Queue.
+At time 765, Job442 arrives at CPU Queue.
+At time 769, Job439 arrives at CPU Queue.
+At time 773, Job440 arrives at CPU Queue.
+At time 775, Job433 arrives at CPU Queue.
+At time 775, Job437 arrives at CPU Queue.
+At time 776, Job444 arrives at CPU Queue.
+At time 776, Job28 finishes at CPU.
+At time 776, Job28 arrives at Disk 2.
+At time 777, Job434 arrives at CPU Queue.
+At time 777, Job29 is in CPU.
+At time 777, Job436 arrives at CPU Queue.
+At time 778, Job445 arrives at CPU Queue.
+At time 778, Job449 arrives at CPU Queue.
+At time 781, Job446 arrives at CPU Queue.
+At time 782, Job451 arrives at CPU Queue.
+At time 784, Job441 arrives at CPU Queue.
+At time 784, Job443 arrives at CPU Queue.
+At time 790, Job453 arrives at CPU Queue.
+At time 790, Job455 arrives at CPU Queue.
+At time 793, Job448 arrives at CPU Queue.
+At time 793, Job458 arrives at CPU Queue.
+At time 794, Job447 arrives at CPU Queue.
+At time 795, Job450 arrives at CPU Queue.
+At time 796, Job456 arrives at CPU Queue.
+At time 796, Job462 arrives at CPU Queue.
+At time 797, Job452 arrives at CPU Queue.
+At time 797, Job454 arrives at CPU Queue.
+At time 798, Job29 finishes at CPU.
+At time 798, Job29 exits.
+At time 798, Job461 arrives at CPU Queue.
+At time 798, Job31 is in CPU.
+At time 799, Job457 arrives at CPU Queue.
+At time 799, Job464 arrives at CPU Queue.
+At time 804, Job460 arrives at CPU Queue.
+At time 804, Job463 arrives at CPU Queue.
+At time 804, Job469 arrives at CPU Queue.
+At time 808, Job459 arrives at CPU Queue.
+At time 809, Job465 arrives at CPU Queue.
+At time 810, Job474 arrives at CPU Queue.
+At time 816, Job467 arrives at CPU Queue.
+At time 816, Job31 finishes at CPU.
+At time 816, Job31 arrives at Disk 2.
+At time 817, Job466 arrives at CPU Queue.
+At time 817, Job35 is in CPU.
+At time 817, Job471 arrives at CPU Queue.
+At time 818, Job470 arrives at CPU Queue.
+At time 821, Job468 arrives at CPU Queue.
+At time 821, Job472 arrives at CPU Queue.
+At time 821, Job473 arrives at CPU Queue.
+At time 821, Job483 arrives at CPU Queue.
+At time 824, Job475 arrives at CPU Queue.
+At time 824, Job476 arrives at CPU Queue.
+At time 824, Job477 arrives at CPU Queue.
+At time 825, Job478 arrives at CPU Queue.
+At time 826, Job479 arrives at CPU Queue.
+At time 827, Job481 arrives at CPU Queue.
+At time 829, Job486 arrives at CPU Queue.
+At time 830, Job480 arrives at CPU Queue.
+At time 830, Job35 finishes at CPU.
+At time 830, Job35 exits.
+At time 833, Job484 arrives at CPU Queue.
+At time 833, Job36 is in CPU.
+At time 833, Job485 arrives at CPU Queue.
+At time 837, Job482 arrives at CPU Queue.
+At time 837, Job488 arrives at CPU Queue.
+At time 839, Job489 arrives at CPU Queue.
+At time 841, Job494 arrives at CPU Queue.
+At time 844, Job495 arrives at CPU Queue.
+At time 846, Job491 arrives at CPU Queue.
+At time 847, Job490 arrives at CPU Queue.
+At time 848, Job487 arrives at CPU Queue.
+At time 849, Job492 arrives at CPU Queue.
+At time 849, Job496 arrives at CPU Queue.
+At time 849, Job501 arrives at CPU Queue.
+At time 850, Job502 arrives at CPU Queue.
+At time 851, Job499 arrives at CPU Queue.
+At time 851, Job36 finishes at CPU.
+At time 851, Job36 arrives at Disk 1.
+At time 852, Job493 arrives at CPU Queue.
+At time 852, Job33 is in CPU.
+At time 853, Job497 arrives at CPU Queue.
+At time 853, Job500 arrives at CPU Queue.
+At time 853, Job504 arrives at CPU Queue.
+At time 854, Job498 arrives at CPU Queue.
+At time 856, Job506 arrives at CPU Queue.
+At time 858, Job503 arrives at CPU Queue.
+At time 862, Job505 arrives at CPU Queue.
+At time 864, Job511 arrives at CPU Queue.
+At time 867, Job507 arrives at CPU Queue.
+At time 868, Job517 arrives at CPU Queue.
+At time 869, Job510 arrives at CPU Queue.
+At time 870, Job519 arrives at CPU Queue.
+At time 871, Job508 arrives at CPU Queue.
+At time 871, Job514 arrives at CPU Queue.
+At time 872, Job516 arrives at CPU Queue.
+At time 874, Job515 arrives at CPU Queue.
+At time 874, Job33 finishes at CPU.
+At time 874, Job520 arrives at CPU Queue.
+At time 874, Job32 is in CPU.
+At time 874, Job33 arrives at Disk 2.
+At time 878, Job509 arrives at CPU Queue.
+At time 878, Job512 arrives at CPU Queue.
+At time 878, Job523 arrives at CPU Queue.
+At time 880, Job513 arrives at CPU Queue.
+At time 883, Job518 arrives at CPU Queue.
+At time 883, Job521 arrives at CPU Queue.
+At time 884, Job530 arrives at CPU Queue.
+At time 885, Job526 arrives at CPU Queue.
+At time 886, Job525 arrives at CPU Queue.
+At time 886, Job527 arrives at CPU Queue.
+At time 890, Job522 arrives at CPU Queue.
+At time 891, Job524 arrives at CPU Queue.
+At time 892, Job529 arrives at CPU Queue.
+At time 894, Job528 arrives at CPU Queue.
+At time 894, Job533 arrives at CPU Queue.
+At time 895, Job535 arrives at CPU Queue.
+At time 897, Job540 arrives at CPU Queue.
+At time 899, Job534 arrives at CPU Queue.
+At time 900, Job532 arrives at CPU Queue.
+At time 902, Job531 arrives at CPU Queue.
+At time 904, Job32 finishes at CPU.
+At time 904, Job32 exits.
+At time 905, Job542 arrives at CPU Queue.
+At time 905, Job34 is in CPU.
+At time 905, Job547 arrives at CPU Queue.
+At time 906, Job541 arrives at CPU Queue.
+At time 907, Job538 arrives at CPU Queue.
+At time 907, Job539 arrives at CPU Queue.
+At time 909, Job549 arrives at CPU Queue.
+At time 910, Job536 arrives at CPU Queue.
+At time 910, Job537 arrives at CPU Queue.
+At time 910, Job550 arrives at CPU Queue.
+At time 912, Job548 arrives at CPU Queue.
+At time 914, Job543 arrives at CPU Queue.
+At time 916, Job545 arrives at CPU Queue.
+At time 917, Job551 arrives at CPU Queue.
+At time 917, Job556 arrives at CPU Queue.
+At time 918, Job34 finishes at CPU.
+At time 918, Job34 arrives at Disk 1.
+At time 919, Job555 arrives at CPU Queue.
+At time 919, Job38 is in CPU.
+At time 919, Job557 arrives at CPU Queue.
+At time 920, Job544 arrives at CPU Queue.
+At time 922, Job546 arrives at CPU Queue.
+At time 923, Job552 arrives at CPU Queue.
+At time 925, Job559 arrives at CPU Queue.
+At time 926, Job564 arrives at CPU Queue.
+At time 928, Job554 arrives at CPU Queue.
+At time 931, Job553 arrives at CPU Queue.
+At time 931, Job566 arrives at CPU Queue.
+At time 931, Job569 arrives at CPU Queue.
+At time 932, Job558 arrives at CPU Queue.
+At time 932, Job560 arrives at CPU Queue.
+At time 933, Job568 arrives at CPU Queue.
+At time 937, Job561 arrives at CPU Queue.
+At time 937, Job571 arrives at CPU Queue.
+At time 938, Job563 arrives at CPU Queue.
+At time 939, Job562 arrives at CPU Queue.
+At time 939, Job572 arrives at CPU Queue.
+At time 939, Job573 arrives at CPU Queue.
+At time 943, Job38 finishes at CPU.
+At time 943, Job38 arrives at Disk 1.
+At time 945, Job567 arrives at CPU Queue.
+At time 945, Job39 is in CPU.
+At time 945, Job574 arrives at CPU Queue.
+At time 947, Job565 arrives at CPU Queue.
+At time 947, Job570 arrives at CPU Queue.
+At time 949, Job576 arrives at CPU Queue.
+At time 950, Job579 arrives at CPU Queue.
+At time 950, Job583 arrives at CPU Queue.
+At time 952, Job578 arrives at CPU Queue.
+At time 954, Job577 arrives at CPU Queue.
+At time 954, Job580 arrives at CPU Queue.
+At time 954, Job584 arrives at CPU Queue.
+At time 955, Job575 arrives at CPU Queue.
+At time 955, Job39 finishes at CPU.
+At time 955, Job39 arrives at Disk 2.
+At time 957, Job585 arrives at CPU Queue.
+At time 957, Job40 is in CPU.
+At time 959, Job586 arrives at CPU Queue.
+At time 961, Job589 arrives at CPU Queue.
+At time 962, Job587 arrives at CPU Queue.
+At time 963, Job582 arrives at CPU Queue.
+At time 965, Job595 arrives at CPU Queue.
+At time 966, Job581 arrives at CPU Queue.
+At time 969, Job598 arrives at CPU Queue.
+At time 970, Job588 arrives at CPU Queue.
+At time 970, Job592 arrives at CPU Queue.
+At time 970, Job600 arrives at CPU Queue.
+At time 971, Job40 finishes at CPU.
+At time 971, Job40 arrives at Disk 1.
+At time 972, Job590 arrives at CPU Queue.
+At time 972, Job5 is in CPU.
+At time 972, Job593 arrives at CPU Queue.
+At time 973, Job594 arrives at CPU Queue.
+At time 973, Job596 arrives at CPU Queue.
+At time 974, Job603 arrives at CPU Queue.
+At time 978, Job605 arrives at CPU Queue.
+At time 979, Job591 arrives at CPU Queue.
+At time 981, Job599 arrives at CPU Queue.
+At time 982, Job601 arrives at CPU Queue.
+At time 982, Job606 arrives at CPU Queue.
+At time 983, Job602 arrives at CPU Queue.
+At time 983, Job604 arrives at CPU Queue.
+At time 984, Job597 arrives at CPU Queue.
+At time 984, Job610 arrives at CPU Queue.
+At time 984, Job611 arrives at CPU Queue.
+At time 984, Job613 arrives at CPU Queue.
+At time 988, Job5 finishes at CPU.
+At time 988, Job5 arrives at Disk 2.
+At time 992, Job616 arrives at CPU Queue.
+At time 992, Job37 is in CPU.
+At time 993, Job607 arrives at CPU Queue.
+At time 993, Job618 arrives at CPU Queue.
+At time 994, Job612 arrives at CPU Queue.
+At time 995, Job608 arrives at CPU Queue.
+At time 996, Job621 arrives at CPU Queue.
+At time 998, Job609 arrives at CPU Queue.
+At time 998, Job623 arrives at CPU Queue.
+At time 0, Job1 arrives at CPU Queue.
+At time 0, Job1 is in CPU.
+At time 24, Job2 arrives at CPU Queue.
+At time 24, Job1 finishes at CPU.
+At time 24, Job1 arrives at Disk 2.
+At time 37, Job3 arrives at CPU Queue.
+At time 37, Job2 is in CPU.
+At time 53, Job1 finished at Disk 2.
+At time 53, Job1 arrives at CPU Queue.
+At time 62, Job2 finishes at CPU.
+At time 62, Job2 arrives at Disk 1.
+At time 65, Job4 arrives at CPU Queue.
+At time 65, Job3 is in CPU.
+At time 75, Job2 finished at Disk 1.
+At time 75, Job2 arrives at CPU Queue.
+At time 78, Job5 arrives at CPU Queue.
+At time 85, Job7 arrives at CPU Queue.
+At time 94, Job3 finishes at CPU.
+At time 94, Job3 exits.
+At time 95, Job6 arrives at CPU Queue.
+At time 95, Job1 is in CPU.
+At time 97, Job8 arrives at CPU Queue.
+At time 105, Job9 arrives at CPU Queue.
+At time 113, Job10 arrives at CPU Queue.
+At time 122, Job11 arrives at CPU Queue.
+At time 125, Job1 finishes at CPU.
+At time 125, Job1 arrives at Disk 2.
+At time 131, Job12 arrives at CPU Queue.
+At time 131, Job4 is in CPU.
+At time 131, Job13 arrives at CPU Queue.
+At time 138, Job14 arrives at CPU Queue.
+At time 147, Job1 finished at Disk 2.
+At time 147, Job1 arrives at CPU Queue.
+At time 148, Job4 finishes at CPU.
+At time 148, Job4 arrives at Disk 2.
+At time 151, Job16 arrives at CPU Queue.
+At time 151, Job2 is in CPU.
+At time 155, Job17 arrives at CPU Queue.
+At time 158, Job15 arrives at CPU Queue.
+At time 164, Job19 arrives at CPU Queue.
+At time 166, Job20 arrives at CPU Queue.
+At time 169, Job18 arrives at CPU Queue.
+At time 173, Job4 finished at Disk 2.
+At time 173, Job4 arrives at CPU Queue.
+At time 174, Job2 finishes at CPU.
+At time 174, Job2 arrives at Disk 2.
+At time 181, Job23 arrives at CPU Queue.
+At time 181, Job5 is in CPU.
+At time 185, Job24 arrives at CPU Queue.
+At time 188, Job21 arrives at CPU Queue.
+At time 189, Job22 arrives at CPU Queue.
+At time 191, Job26 arrives at CPU Queue.
+At time 194, Job2 finished at Disk 1.
+At time 194, Job2 arrives at CPU Queue.
+At time 196, Job25 arrives at CPU Queue.
+At time 198, Job5 finishes at CPU.
+At time 198, Job5 arrives at Disk 2.
+At time 202, Job29 arrives at CPU Queue.
+At time 202, Job7 is in CPU.
+At time 207, Job27 arrives at CPU Queue.
+At time 208, Job32 arrives at CPU Queue.
+At time 209, Job28 arrives at CPU Queue.
+At time 211, Job30 arrives at CPU Queue.
+At time 218, Job31 arrives at CPU Queue.
+At time 218, Job7 finishes at CPU.
+At time 218, Job7 arrives at Disk 1.
+At time 228, Job34 arrives at CPU Queue.
+At time 228, Job6 is in CPU.
+At time 230, Job33 arrives at CPU Queue.
+At time 230, Job38 arrives at CPU Queue.
+At time 232, Job35 arrives at CPU Queue.
+At time 234, Job37 arrives at CPU Queue.
+At time 235, Job36 arrives at CPU Queue.
+At time 238, Job6 finishes at CPU.
+At time 238, Job6 arrives at Disk 1.
+At time 240, Job39 arrives at CPU Queue.
+At time 240, Job8 is in CPU.
+At time 240, Job40 arrives at CPU Queue.
+At time 243, Job7 finished at Disk 1.
+At time 243, Job7 arrives at CPU Queue.
+At time 250, Job44 arrives at CPU Queue.
+At time 252, Job46 arrives at CPU Queue.
+At time 254, Job45 arrives at CPU Queue.
+At time 257, Job41 arrives at CPU Queue.
+At time 257, Job43 arrives at CPU Queue.
+At time 259, Job47 arrives at CPU Queue.
+At time 262, Job42 arrives at CPU Queue.
+At time 263, Job48 arrives at CPU Queue.
+At time 269, Job53 arrives at CPU Queue.
+At time 270, Job8 finishes at CPU.
+At time 270, Job8 arrives at Disk 1.
+At time 273, Job50 arrives at CPU Queue.
+At time 273, Job9 is in CPU.
+At time 278, Job51 arrives at CPU Queue.
+At time 280, Job49 arrives at CPU Queue.
+At time 285, Job54 arrives at CPU Queue.
+At time 287, Job52 arrives at CPU Queue.
+At time 288, Job55 arrives at CPU Queue.
+At time 288, Job57 arrives at CPU Queue.
+At time 288, Job9 finishes at CPU.
+At time 288, Job9 arrives at Disk 1.
+At time 291, Job56 arrives at CPU Queue.
+At time 291, Job10 is in CPU.
+At time 292, Job6 arrives at CPU Queue.
+At time 296, Job60 arrives at CPU Queue.
+At time 300, Job62 arrives at CPU Queue.
+At time 302, Job10 finishes at CPU.
+At time 302, Job10 arrives at Disk 2.
+At time 303, Job58 arrives at CPU Queue.
+At time 303, Job11 is in CPU.
+At time 303, Job64 arrives at CPU Queue.
+At time 306, Job59 arrives at CPU Queue.
+At time 307, Job61 arrives at CPU Queue.
+At time 308, Job65 arrives at CPU Queue.
+At time 308, Job66 arrives at CPU Queue.
+At time 310, Job67 arrives at CPU Queue.
+At time 316, Job63 arrives at CPU Queue.
+At time 319, Job11 finishes at CPU.
+At time 319, Job71 arrives at CPU Queue.
+At time 319, Job12 is in CPU.
+At time 319, Job11 arrives at Disk 1.
+At time 320, Job69 arrives at CPU Queue.
+At time 321, Job73 arrives at CPU Queue.
+At time 322, Job70 arrives at CPU Queue.
+At time 323, Job74 arrives at CPU Queue.
+At time 330, Job72 arrives at CPU Queue.
+At time 332, Job68 arrives at CPU Queue.
+At time 334, Job76 arrives at CPU Queue.
+At time 335, Job79 arrives at CPU Queue.
+At time 338, Job75 arrives at CPU Queue.
+At time 340, Job80 arrives at CPU Queue.
+At time 341, Job77 arrives at CPU Queue.
+At time 347, Job12 finishes at CPU.
+At time 347, Job83 arrives at CPU Queue.
+At time 347, Job13 is in CPU.
+At time 347, Job12 arrives at Disk 1.
+At time 350, Job82 arrives at CPU Queue.
+At time 350, Job84 arrives at CPU Queue.
+At time 351, Job78 arrives at CPU Queue.
+At time 352, Job81 arrives at CPU Queue.
+At time 359, Job85 arrives at CPU Queue.
+At time 360, Job13 finishes at CPU.
+At time 360, Job13 arrives at Disk 2.
+At time 362, Job91 arrives at CPU Queue.
+At time 362, Job14 is in CPU.
+At time 364, Job86 arrives at CPU Queue.
+At time 364, Job92 arrives at CPU Queue.
+At time 369, Job87 arrives at CPU Queue.
+At time 371, Job88 arrives at CPU Queue.
+At time 372, Job93 arrives at CPU Queue.
+At time 374, Job94 arrives at CPU Queue.
+At time 377, Job95 arrives at CPU Queue.
+At time 379, Job89 arrives at CPU Queue.
+At time 380, Job90 arrives at CPU Queue.
+At time 383, Job14 finishes at CPU.
+At time 383, Job14 arrives at Disk 1.
+At time 385, Job99 arrives at CPU Queue.
+At time 385, Job1 is in CPU.
+At time 390, Job102 arrives at CPU Queue.
+At time 392, Job96 arrives at CPU Queue.
+At time 396, Job97 arrives at CPU Queue.
+At time 396, Job98 arrives at CPU Queue.
+At time 397, Job103 arrives at CPU Queue.
+At time 403, Job100 arrives at CPU Queue.
+At time 403, Job101 arrives at CPU Queue.
+At time 406, Job105 arrives at CPU Queue.
+At time 406, Job108 arrives at CPU Queue.
+At time 408, Job1 finishes at CPU.
+At time 408, Job106 arrives at CPU Queue.
+At time 408, Job16 is in CPU.
+At time 408, Job1 arrives at Disk 2.
+At time 409, Job109 arrives at CPU Queue.
+At time 411, Job104 arrives at CPU Queue.
+At time 412, Job107 arrives at CPU Queue.
+At time 419, Job115 arrives at CPU Queue.
+At time 422, Job16 finishes at CPU.
+At time 422, Job16 arrives at Disk 1.
+At time 428, Job113 arrives at CPU Queue.
+At time 428, Job17 is in CPU.
+At time 430, Job112 arrives at CPU Queue.
+At time 431, Job110 arrives at CPU Queue.
+At time 431, Job117 arrives at CPU Queue.
+At time 432, Job111 arrives at CPU Queue.
+At time 434, Job114 arrives at CPU Queue.
+At time 434, Job116 arrives at CPU Queue.
+At time 436, Job118 arrives at CPU Queue.
+At time 444, Job121 arrives at CPU Queue.
+At time 446, Job17 finishes at CPU.
+At time 446, Job17 arrives at Disk 2.
+At time 448, Job120 arrives at CPU Queue.
+At time 448, Job15 is in CPU.
+At time 449, Job122 arrives at CPU Queue.
+At time 450, Job125 arrives at CPU Queue.
+At time 457, Job119 arrives at CPU Queue.
+At time 457, Job127 arrives at CPU Queue.
+At time 462, Job123 arrives at CPU Queue.
+At time 462, Job126 arrives at CPU Queue.
+At time 463, Job124 arrives at CPU Queue.
+At time 463, Job128 arrives at CPU Queue.
+At time 470, Job129 arrives at CPU Queue.
+At time 473, Job15 finishes at CPU.
+At time 473, Job131 arrives at CPU Queue.
+At time 473, Job19 is in CPU.
+At time 473, Job15 arrives at Disk 1.
+At time 475, Job130 arrives at CPU Queue.
+At time 477, Job132 arrives at CPU Queue.
+At time 480, Job135 arrives at CPU Queue.
+At time 480, Job137 arrives at CPU Queue.
+At time 489, Job134 arrives at CPU Queue.
+At time 489, Job136 arrives at CPU Queue.
+At time 491, Job133 arrives at CPU Queue.
+At time 491, Job19 finishes at CPU.
+At time 491, Job19 arrives at Disk 2.
+At time 495, Job139 arrives at CPU Queue.
+At time 495, Job20 is in CPU.
+At time 497, Job138 arrives at CPU Queue.
+At time 502, Job141 arrives at CPU Queue.
+At time 503, Job144 arrives at CPU Queue.
+At time 505, Job140 arrives at CPU Queue.
+At time 507, Job142 arrives at CPU Queue.
+At time 514, Job20 finishes at CPU.
+At time 514, Job20 arrives at Disk 1.
+At time 516, Job145 arrives at CPU Queue.
+At time 516, Job18 is in CPU.
+At time 519, Job143 arrives at CPU Queue.
+At time 519, Job146 arrives at CPU Queue.
+At time 521, Job148 arrives at CPU Queue.
+At time 526, Job147 arrives at CPU Queue.
+At time 526, Job152 arrives at CPU Queue.
+At time 532, Job149 arrives at CPU Queue.
+At time 532, Job150 arrives at CPU Queue.
+At time 532, Job18 finishes at CPU.
+At time 532, Job18 arrives at Disk 2.
+At time 537, Job151 arrives at CPU Queue.
+At time 537, Job4 is in CPU.
+At time 538, Job155 arrives at CPU Queue.
+At time 540, Job154 arrives at CPU Queue.
+At time 545, Job157 arrives at CPU Queue.
+At time 549, Job153 arrives at CPU Queue.
+At time 550, Job161 arrives at CPU Queue.
+At time 551, Job159 arrives at CPU Queue.
+At time 551, Job162 arrives at CPU Queue.
+At time 552, Job156 arrives at CPU Queue.
+At time 552, Job158 arrives at CPU Queue.
+At time 561, Job4 finishes at CPU.
+At time 561, Job4 arrives at Disk 1.
+At time 562, Job160 arrives at CPU Queue.
+At time 562, Job23 is in CPU.
+At time 565, Job164 arrives at CPU Queue.
+At time 571, Job166 arrives at CPU Queue.
+At time 573, Job165 arrives at CPU Queue.
+At time 575, Job163 arrives at CPU Queue.
+At time 576, Job167 arrives at CPU Queue.
+At time 576, Job169 arrives at CPU Queue.
+At time 577, Job168 arrives at CPU Queue.
+At time 577, Job171 arrives at CPU Queue.
+At time 580, Job170 arrives at CPU Queue.
+At time 587, Job23 finishes at CPU.
+At time 587, Job172 arrives at CPU Queue.
+At time 587, Job24 is in CPU.
+At time 587, Job23 arrives at Disk 2.
+At time 593, Job174 arrives at CPU Queue.
+At time 593, Job179 arrives at CPU Queue.
+At time 595, Job173 arrives at CPU Queue.
+At time 598, Job178 arrives at CPU Queue.
+At time 600, Job176 arrives at CPU Queue.
+At time 604, Job175 arrives at CPU Queue.
+At time 604, Job182 arrives at CPU Queue.
+At time 605, Job177 arrives at CPU Queue.
+At time 611, Job184 arrives at CPU Queue.
+At time 612, Job181 arrives at CPU Queue.
+At time 613, Job185 arrives at CPU Queue.
+At time 614, Job180 arrives at CPU Queue.
+At time 614, Job24 finishes at CPU.
+At time 614, Job24 exits.
+At time 617, Job186 arrives at CPU Queue.
+At time 617, Job21 is in CPU.
+At time 621, Job189 arrives at CPU Queue.
+At time 622, Job187 arrives at CPU Queue.
+At time 625, Job183 arrives at CPU Queue.
+At time 627, Job188 arrives at CPU Queue.
+At time 627, Job193 arrives at CPU Queue.
+At time 631, Job21 finishes at CPU.
+At time 631, Job21 arrives at Disk 1.
+At time 632, Job190 arrives at CPU Queue.
+At time 632, Job22 is in CPU.
+At time 637, Job192 arrives at CPU Queue.
+At time 641, Job191 arrives at CPU Queue.
+At time 643, Job196 arrives at CPU Queue.
+At time 643, Job198 arrives at CPU Queue.
+At time 647, Job194 arrives at CPU Queue.
+At time 649, Job199 arrives at CPU Queue.
+At time 649, Job22 finishes at CPU.
+At time 649, Job22 arrives at Disk 2.
+At time 652, Job195 arrives at CPU Queue.
+At time 652, Job26 is in CPU.
+At time 655, Job197 arrives at CPU Queue.
+At time 656, Job200 arrives at CPU Queue.
+At time 660, Job201 arrives at CPU Queue.
+At time 661, Job202 arrives at CPU Queue.
+At time 662, Job205 arrives at CPU Queue.
+At time 664, Job203 arrives at CPU Queue.
+At time 664, Job204 arrives at CPU Queue.
+At time 666, Job206 arrives at CPU Queue.
+At time 667, Job26 finishes at CPU.
+At time 667, Job26 arrives at Disk 1.
+At time 670, Job208 arrives at CPU Queue.
+At time 670, Job2 is in CPU.
+At time 676, Job210 arrives at CPU Queue.
+At time 678, Job211 arrives at CPU Queue.
+At time 679, Job207 arrives at CPU Queue.
+At time 681, Job213 arrives at CPU Queue.
+At time 681, Job214 arrives at CPU Queue.
+At time 681, Job2 finishes at CPU.
+At time 681, Job2 arrives at Disk 2.
+At time 685, Job209 arrives at CPU Queue.
+At time 685, Job25 is in CPU.
+At time 689, Job212 arrives at CPU Queue.
+At time 692, Job218 arrives at CPU Queue.
+At time 694, Job215 arrives at CPU Queue.
+At time 695, Job216 arrives at CPU Queue.
+At time 695, Job217 arrives at CPU Queue.
+At time 699, Job219 arrives at CPU Queue.
+At time 699, Job222 arrives at CPU Queue.
+At time 705, Job25 finishes at CPU.
+At time 705, Job226 arrives at CPU Queue.
+At time 705, Job29 is in CPU.
+At time 705, Job25 arrives at Disk 2.
+At time 711, Job220 arrives at CPU Queue.
+At time 711, Job223 arrives at CPU Queue.
+At time 714, Job221 arrives at CPU Queue.
+At time 715, Job225 arrives at CPU Queue.
+At time 718, Job224 arrives at CPU Queue.
+At time 719, Job228 arrives at CPU Queue.
+At time 723, Job229 arrives at CPU Queue.
+At time 725, Job227 arrives at CPU Queue.
+At time 725, Job230 arrives at CPU Queue.
+At time 733, Job29 finishes at CPU.
+At time 733, Job233 arrives at CPU Queue.
+At time 733, Job27 is in CPU.
+At time 733, Job29 arrives at Disk 1.
+At time 735, Job231 arrives at CPU Queue.
+At time 735, Job236 arrives at CPU Queue.
+At time 740, Job232 arrives at CPU Queue.
+At time 740, Job235 arrives at CPU Queue.
+At time 740, Job237 arrives at CPU Queue.
+At time 744, Job27 finishes at CPU.
+At time 744, Job27 arrives at Disk 1.
+At time 747, Job234 arrives at CPU Queue.
+At time 747, Job32 is in CPU.
+At time 750, Job238 arrives at CPU Queue.
+At time 751, Job241 arrives at CPU Queue.
+At time 754, Job239 arrives at CPU Queue.
+At time 759, Job240 arrives at CPU Queue.
+At time 765, Job244 arrives at CPU Queue.
+At time 766, Job243 arrives at CPU Queue.
+At time 766, Job32 finishes at CPU.
+At time 766, Job246 arrives at CPU Queue.
+At time 766, Job28 is in CPU.
+At time 766, Job247 arrives at CPU Queue.
+At time 766, Job32 arrives at Disk 2.
+At time 770, Job242 arrives at CPU Queue.
+At time 771, Job249 arrives at CPU Queue.
+At time 777, Job245 arrives at CPU Queue.
+At time 777, Job248 arrives at CPU Queue.
+At time 780, Job254 arrives at CPU Queue.
+At time 781, Job252 arrives at CPU Queue.
+At time 784, Job28 finishes at CPU.
+At time 784, Job255 arrives at CPU Queue.
+At time 784, Job30 is in CPU.
+At time 784, Job28 arrives at Disk 1.
+At time 788, Job251 arrives at CPU Queue.
+At time 790, Job258 arrives at CPU Queue.
+At time 791, Job259 arrives at CPU Queue.
+At time 792, Job253 arrives at CPU Queue.
+At time 793, Job250 arrives at CPU Queue.
+At time 797, Job30 finishes at CPU.
+At time 797, Job30 arrives at Disk 2.
+At time 800, Job256 arrives at CPU Queue.
+At time 800, Job31 is in CPU.
+At time 804, Job257 arrives at CPU Queue.
+At time 810, Job260 arrives at CPU Queue.
+At time 810, Job263 arrives at CPU Queue.
+At time 810, Job266 arrives at CPU Queue.
+At time 812, Job31 finishes at CPU.
+At time 812, Job31 arrives at Disk 2.
+At time 816, Job264 arrives at CPU Queue.
+At time 816, Job34 is in CPU.
+At time 818, Job261 arrives at CPU Queue.
+At time 820, Job262 arrives at CPU Queue.
+At time 822, Job265 arrives at CPU Queue.
+At time 828, Job271 arrives at CPU Queue.
+At time 828, Job34 finishes at CPU.
+At time 828, Job34 arrives at Disk 1.
+At time 830, Job267 arrives at CPU Queue.
+At time 830, Job33 is in CPU.
+At time 830, Job268 arrives at CPU Queue.
+At time 831, Job269 arrives at CPU Queue.
+At time 831, Job272 arrives at CPU Queue.
+At time 834, Job274 arrives at CPU Queue.
+At time 838, Job270 arrives at CPU Queue.
+At time 841, Job273 arrives at CPU Queue.
+At time 841, Job33 finishes at CPU.
+At time 841, Job33 arrives at Disk 2.
+At time 842, Job276 arrives at CPU Queue.
+At time 842, Job38 is in CPU.
+At time 843, Job278 arrives at CPU Queue.
+At time 845, Job275 arrives at CPU Queue.
+At time 849, Job277 arrives at CPU Queue.
+At time 851, Job281 arrives at CPU Queue.
+At time 857, Job283 arrives at CPU Queue.
+At time 857, Job38 finishes at CPU.
+At time 857, Job38 exits.
+At time 858, Job279 arrives at CPU Queue.
+At time 858, Job35 is in CPU.
+At time 862, Job285 arrives at CPU Queue.
+At time 863, Job280 arrives at CPU Queue.
+At time 864, Job282 arrives at CPU Queue.
+At time 869, Job284 arrives at CPU Queue.
+At time 871, Job288 arrives at CPU Queue.
+At time 872, Job289 arrives at CPU Queue.
+At time 876, Job286 arrives at CPU Queue.
+At time 876, Job287 arrives at CPU Queue.
+At time 880, Job291 arrives at CPU Queue.
+At time 881, Job35 finishes at CPU.
+At time 881, Job35 arrives at Disk 1.
+At time 886, Job294 arrives at CPU Queue.
+At time 886, Job37 is in CPU.
+At time 886, Job295 arrives at CPU Queue.
+At time 888, Job290 arrives at CPU Queue.
+At time 890, Job293 arrives at CPU Queue.
+At time 892, Job296 arrives at CPU Queue.
+At time 893, Job292 arrives at CPU Queue.
+At time 895, Job297 arrives at CPU Queue.
+At time 897, Job299 arrives at CPU Queue.
+At time 904, Job300 arrives at CPU Queue.
+At time 904, Job302 arrives at CPU Queue.
+At time 908, Job305 arrives at CPU Queue.
+At time 910, Job298 arrives at CPU Queue.
+At time 910, Job37 finishes at CPU.
+At time 910, Job303 arrives at CPU Queue.
+At time 910, Job36 is in CPU.
+At time 910, Job37 arrives at Disk 1.
+At time 914, Job304 arrives at CPU Queue.
+At time 915, Job301 arrives at CPU Queue.
+At time 916, Job306 arrives at CPU Queue.
+At time 921, Job36 finishes at CPU.
+At time 921, Job36 arrives at Disk 2.
+At time 923, Job310 arrives at CPU Queue.
+At time 923, Job39 is in CPU.
+At time 929, Job312 arrives at CPU Queue.
+At time 930, Job307 arrives at CPU Queue.
+At time 932, Job308 arrives at CPU Queue.
+At time 932, Job311 arrives at CPU Queue.
+At time 933, Job314 arrives at CPU Queue.
+At time 938, Job309 arrives at CPU Queue.
+At time 940, Job313 arrives at CPU Queue.
+At time 945, Job39 finishes at CPU.
+At time 945, Job39 arrives at Disk 2.
+At time 947, Job315 arrives at CPU Queue.
+At time 947, Job40 is in CPU.
+At time 951, Job317 arrives at CPU Queue.
+At time 951, Job320 arrives at CPU Queue.
+At time 955, Job321 arrives at CPU Queue.
+At time 957, Job316 arrives at CPU Queue.
+At time 957, Job318 arrives at CPU Queue.
+At time 958, Job323 arrives at CPU Queue.
+At time 958, Job40 finishes at CPU.
+At time 958, Job40 arrives at Disk 1.
+At time 960, Job322 arrives at CPU Queue.
+At time 960, Job7 is in CPU.
+At time 961, Job319 arrives at CPU Queue.
+At time 963, Job325 arrives at CPU Queue.
+At time 969, Job326 arrives at CPU Queue.
+At time 970, Job330 arrives at CPU Queue.
+At time 973, Job324 arrives at CPU Queue.
+At time 973, Job327 arrives at CPU Queue.
+At time 978, Job331 arrives at CPU Queue.
+At time 983, Job329 arrives at CPU Queue.
+At time 984, Job7 finishes at CPU.
+At time 984, Job7 arrives at Disk 1.
+At time 987, Job328 arrives at CPU Queue.
+At time 987, Job44 is in CPU.
+At time 987, Job332 arrives at CPU Queue.
+At time 988, Job333 arrives at CPU Queue.
+At time 989, Job334 arrives at CPU Queue.
+At time 989, Job336 arrives at CPU Queue.
+At time 992, Job335 arrives at CPU Queue.
+At time 0, Job1 arrives at CPU Queue.
+At time 0, Job1 is in CPU.
+At time 10, Job2 arrives at CPU Queue.
+At time 19, Job1 finishes at CPU.
+At time 19, Job1 arrives at Disk 2.
+At time 22, Job1 finished at Disk 2.
+At time 22, Job1 arrives at CPU Queue.
+At time 22, Job2 is in CPU.
+At time 24, Job3 arrives at CPU Queue.
+At time 24, Job4 arrives at CPU Queue.
+At time 24, Job6 arrives at CPU Queue.
+At time 32, Job2 finishes at CPU.
+At time 32, Job2 exits.
+At time 45, Job5 arrives at CPU Queue.
+At time 45, Job1 is in CPU.
+At time 45, Job7 arrives at CPU Queue.
+At time 66, Job1 finishes at CPU.
+At time 66, Job1 exits.
+At time 67, Job8 arrives at CPU Queue.
+At time 67, Job3 is in CPU.
+At time 72, Job3 finishes at CPU.
+At time 72, Job3 arrives at Disk 2.
+At time 73, Job9 arrives at CPU Queue.
+At time 73, Job4 is in CPU.
+At time 73, Job11 arrives at CPU Queue.
+At time 84, Job10 arrives at CPU Queue.
+At time 88, Job4 finishes at CPU.
+At time 88, Job4 exits.
+At time 88, Job13 arrives at CPU Queue.
+At time 88, Job6 is in CPU.
+At time 96, Job14 arrives at CPU Queue.
+At time 97, Job15 arrives at CPU Queue.
+At time 100, Job16 arrives at CPU Queue.
+At time 101, Job3 finished at Disk 2.
+At time 101, Job3 arrives at CPU Queue.
+At time 103, Job12 arrives at CPU Queue.
+At time 105, Job19 arrives at CPU Queue.
+At time 106, Job6 finishes at CPU.
+At time 106, Job6 arrives at Disk 1.
+At time 111, Job17 arrives at CPU Queue.
+At time 111, Job5 is in CPU.
+At time 128, Job18 arrives at CPU Queue.
+At time 128, Job20 arrives at CPU Queue.
+At time 128, Job6 finished at Disk 1.
+At time 128, Job6 arrives at CPU Queue.
+At time 132, Job22 arrives at CPU Queue.
+At time 133, Job5 finishes at CPU.
+At time 133, Job5 arrives at Disk 2.
+At time 134, Job21 arrives at CPU Queue.
+At time 134, Job7 is in CPU.
+At time 134, Job26 arrives at CPU Queue.
+At time 138, Job5 finished at Disk 2.
+At time 138, Job5 arrives at CPU Queue.
+At time 143, Job7 finishes at CPU.
+At time 143, Job7 arrives at Disk 1.
+At time 144, Job23 arrives at CPU Queue.
+At time 144, Job8 is in CPU.
+At time 144, Job27 arrives at CPU Queue.
+At time 147, Job25 arrives at CPU Queue.
+At time 151, Job24 arrives at CPU Queue.
+At time 153, Job29 arrives at CPU Queue.
+At time 156, Job7 finished at Disk 1.
+At time 156, Job8 finishes at CPU.
+At time 156, Job8 exits.
+At time 156, Job30 arrives at CPU Queue.
+At time 156, Job9 is in CPU.
+At time 156, Job7 arrives at CPU Queue.
+At time 156, Job9 finishes at CPU.
+At time 156, Job9 arrives at Disk 1.
+At time 159, Job35 arrives at CPU Queue.
+At time 159, Job11 is in CPU.
+At time 160, Job31 arrives at CPU Queue.
+At time 167, Job28 arrives at CPU Queue.
+At time 167, Job34 arrives at CPU Queue.
+At time 167, Job37 arrives at CPU Queue.
+At time 169, Job32 arrives at CPU Queue.
+At time 170, Job39 arrives at CPU Queue.
+At time 172, Job36 arrives at CPU Queue.
+At time 173, Job43 arrives at CPU Queue.
+At time 175, Job11 finishes at CPU.
+At time 175, Job41 arrives at CPU Queue.
+At time 175, Job10 is in CPU.
+At time 175, Job11 arrives at Disk 1.
+At time 176, Job33 arrives at CPU Queue.
+At time 181, Job9 finished at Disk 1.
+At time 181, Job9 arrives at CPU Queue.
+At time 185, Job45 arrives at CPU Queue.
+At time 185, Job10 finishes at CPU.
+At time 185, Job10 arrives at Disk 1.
+At time 186, Job38 arrives at CPU Queue.
+At time 186, Job13 is in CPU.
+At time 186, Job13 finishes at CPU.
+At time 186, Job13 arrives at Disk 1.
+At time 187, Job42 arrives at CPU Queue.
+At time 187, Job14 is in CPU.
+At time 187, Job46 arrives at CPU Queue.
+At time 190, Job40 arrives at CPU Queue.
+At time 191, Job47 arrives at CPU Queue.
+At time 191, Job51 arrives at CPU Queue.
+At time 191, Job52 arrives at CPU Queue.
+At time 193, Job49 arrives at CPU Queue.
+At time 194, Job54 arrives at CPU Queue.
+At time 195, Job50 arrives at CPU Queue.
+At time 201, Job14 finishes at CPU.
+At time 201, Job14 exits.
+At time 202, Job44 arrives at CPU Queue.
+At time 202, Job15 is in CPU.
+At time 202, Job55 arrives at CPU Queue.
+At time 203, Job59 arrives at CPU Queue.
+At time 206, Job48 arrives at CPU Queue.
+At time 211, Job57 arrives at CPU Queue.
+At time 214, Job11 arrives at CPU Queue.
+At time 215, Job53 arrives at CPU Queue.
+At time 218, Job58 arrives at CPU Queue.
+At time 221, Job60 arrives at CPU Queue.
+At time 223, Job56 arrives at CPU Queue.
+At time 225, Job61 arrives at CPU Queue.
+At time 227, Job15 finishes at CPU.
+At time 227, Job15 arrives at Disk 2.
+At time 229, Job64 arrives at CPU Queue.
+At time 229, Job16 is in CPU.
+At time 229, Job16 finishes at CPU.
+At time 229, Job16 arrives at Disk 2.
+At time 232, Job63 arrives at CPU Queue.
+At time 232, Job3 is in CPU.
+At time 233, Job62 arrives at CPU Queue.
+At time 233, Job65 arrives at CPU Queue.
+At time 234, Job67 arrives at CPU Queue.
+At time 234, Job68 arrives at CPU Queue.
+At time 234, Job15 finished at Disk 2.
+At time 234, Job15 arrives at CPU Queue.
+At time 236, Job66 arrives at CPU Queue.
+At time 237, Job3 finishes at CPU.
+At time 237, Job3 arrives at Disk 2.
+At time 238, Job71 arrives at CPU Queue.
+At time 238, Job12 is in CPU.
+At time 242, Job69 arrives at CPU Queue.
+At time 242, Job73 arrives at CPU Queue.
+At time 244, Job75 arrives at CPU Queue.
+At time 245, Job72 arrives at CPU Queue.
+At time 246, Job76 arrives at CPU Queue.
+At time 248, Job82 arrives at CPU Queue.
+At time 249, Job84 arrives at CPU Queue.
+At time 250, Job80 arrives at CPU Queue.
+At time 250, Job86 arrives at CPU Queue.
+At time 251, Job87 arrives at CPU Queue.
+At time 253, Job70 arrives at CPU Queue.
+At time 255, Job78 arrives at CPU Queue.
+At time 256, Job74 arrives at CPU Queue.
+At time 257, Job12 finishes at CPU.
+At time 257, Job81 arrives at CPU Queue.
+At time 257, Job19 is in CPU.
+At time 257, Job12 arrives at Disk 2.
+At time 261, Job77 arrives at CPU Queue.
+At time 266, Job79 arrives at CPU Queue.
+At time 266, Job16 arrives at CPU Queue.
+At time 268, Job94 arrives at CPU Queue.
+At time 269, Job89 arrives at CPU Queue.
+At time 271, Job88 arrives at CPU Queue.
+At time 273, Job83 arrives at CPU Queue.
+At time 273, Job85 arrives at CPU Queue.
+At time 274, Job100 arrives at CPU Queue.
+At time 278, Job91 arrives at CPU Queue.
+At time 281, Job92 arrives at CPU Queue.
+At time 283, Job90 arrives at CPU Queue.
+At time 283, Job19 finishes at CPU.
+At time 283, Job96 arrives at CPU Queue.
+At time 283, Job17 is in CPU.
+At time 283, Job19 arrives at Disk 1.
+At time 283, Job105 arrives at CPU Queue.
+At time 289, Job98 arrives at CPU Queue.
+At time 291, Job93 arrives at CPU Queue.
+At time 292, Job97 arrives at CPU Queue.
+At time 292, Job101 arrives at CPU Queue.
+At time 294, Job104 arrives at CPU Queue.
+At time 295, Job17 finishes at CPU.
+At time 295, Job17 arrives at Disk 2.
+At time 296, Job95 arrives at CPU Queue.
+At time 296, Job18 is in CPU.
+At time 297, Job111 arrives at CPU Queue.
+At time 297, Job18 finishes at CPU.
+At time 297, Job18 exits.
+At time 298, Job103 arrives at CPU Queue.
+At time 298, Job20 is in CPU.
+At time 300, Job106 arrives at CPU Queue.
+At time 301, Job102 arrives at CPU Queue.
+At time 302, Job99 arrives at CPU Queue.
+At time 308, Job107 arrives at CPU Queue.
+At time 308, Job112 arrives at CPU Queue.
+At time 309, Job20 finishes at CPU.
+At time 309, Job20 arrives at Disk 1.
+At time 311, Job118 arrives at CPU Queue.
+At time 311, Job6 is in CPU.
+At time 312, Job108 arrives at CPU Queue.
+At time 312, Job109 arrives at CPU Queue.
+At time 314, Job110 arrives at CPU Queue.
+At time 318, Job114 arrives at CPU Queue.
+At time 318, Job117 arrives at CPU Queue.
+At time 319, Job116 arrives at CPU Queue.
+At time 320, Job120 arrives at CPU Queue.
+At time 323, Job115 arrives at CPU Queue.
+At time 323, Job119 arrives at CPU Queue.
+At time 323, Job121 arrives at CPU Queue.
+At time 323, Job122 arrives at CPU Queue.
+At time 325, Job124 arrives at CPU Queue.
+At time 326, Job113 arrives at CPU Queue.
+At time 326, Job6 finishes at CPU.
+At time 326, Job123 arrives at CPU Queue.
+At time 326, Job22 is in CPU.
+At time 326, Job6 arrives at Disk 2.
+At time 327, Job133 arrives at CPU Queue.
+At time 330, Job127 arrives at CPU Queue.
+At time 330, Job130 arrives at CPU Queue.
+At time 335, Job126 arrives at CPU Queue.
+At time 337, Job135 arrives at CPU Queue.
+At time 340, Job137 arrives at CPU Queue.
+At time 341, Job125 arrives at CPU Queue.
+At time 342, Job128 arrives at CPU Queue.
+At time 342, Job129 arrives at CPU Queue.
+At time 342, Job140 arrives at CPU Queue.
+At time 345, Job132 arrives at CPU Queue.
+At time 347, Job22 finishes at CPU.
+At time 347, Job22 arrives at Disk 1.
+At time 348, Job131 arrives at CPU Queue.
+At time 348, Job21 is in CPU.
+At time 348, Job138 arrives at CPU Queue.
+At time 349, Job139 arrives at CPU Queue.
+At time 349, Job148 arrives at CPU Queue.
+At time 351, Job134 arrives at CPU Queue.
+At time 352, Job136 arrives at CPU Queue.
+At time 353, Job146 arrives at CPU Queue.
+At time 353, Job147 arrives at CPU Queue.
+At time 357, Job142 arrives at CPU Queue.
+At time 360, Job141 arrives at CPU Queue.
+At time 364, Job153 arrives at CPU Queue.
+At time 365, Job144 arrives at CPU Queue.
+At time 365, Job152 arrives at CPU Queue.
+At time 365, Job155 arrives at CPU Queue.
+At time 366, Job143 arrives at CPU Queue.
+At time 368, Job156 arrives at CPU Queue.
+At time 369, Job145 arrives at CPU Queue.
+At time 369, Job158 arrives at CPU Queue.
+At time 370, Job21 finishes at CPU.
+At time 370, Job21 exits.
+At time 371, Job151 arrives at CPU Queue.
+At time 371, Job26 is in CPU.
+At time 373, Job157 arrives at CPU Queue.
+At time 374, Job150 arrives at CPU Queue.
+At time 377, Job166 arrives at CPU Queue.
+At time 378, Job149 arrives at CPU Queue.
+At time 379, Job154 arrives at CPU Queue.
+At time 385, Job163 arrives at CPU Queue.
+At time 389, Job161 arrives at CPU Queue.
+At time 389, Job162 arrives at CPU Queue.
+At time 391, Job159 arrives at CPU Queue.
+At time 391, Job160 arrives at CPU Queue.
+At time 391, Job168 arrives at CPU Queue.
+At time 392, Job174 arrives at CPU Queue.
+At time 394, Job164 arrives at CPU Queue.
+At time 396, Job26 finishes at CPU.
+At time 396, Job165 arrives at CPU Queue.
+At time 396, Job5 is in CPU.
+At time 396, Job26 arrives at Disk 2.
+At time 398, Job175 arrives at CPU Queue.
+At time 401, Job179 arrives at CPU Queue.
+At time 402, Job167 arrives at CPU Queue.
+At time 402, Job169 arrives at CPU Queue.
+At time 406, Job171 arrives at CPU Queue.
+At time 411, Job170 arrives at CPU Queue.
+At time 411, Job182 arrives at CPU Queue.
+At time 411, Job184 arrives at CPU Queue.
+At time 413, Job5 finishes at CPU.
+At time 413, Job181 arrives at CPU Queue.
+At time 413, Job23 is in CPU.
+At time 413, Job5 arrives at Disk 2.
+At time 415, Job185 arrives at CPU Queue.
+At time 417, Job176 arrives at CPU Queue.
+At time 418, Job180 arrives at CPU Queue.
+At time 418, Job183 arrives at CPU Queue.
+At time 419, Job172 arrives at CPU Queue.
+At time 419, Job173 arrives at CPU Queue.
+At time 419, Job178 arrives at CPU Queue.
+At time 420, Job177 arrives at CPU Queue.
+At time 420, Job189 arrives at CPU Queue.
+At time 421, Job187 arrives at CPU Queue.
+At time 425, Job190 arrives at CPU Queue.
+At time 426, Job193 arrives at CPU Queue.
+At time 427, Job194 arrives at CPU Queue.
+At time 427, Job197 arrives at CPU Queue.
+At time 429, Job196 arrives at CPU Queue.
+At time 430, Job192 arrives at CPU Queue.
+At time 433, Job198 arrives at CPU Queue.
+At time 437, Job23 finishes at CPU.
+At time 437, Job23 arrives at Disk 1.
+At time 438, Job186 arrives at CPU Queue.
+At time 438, Job27 is in CPU.
+At time 438, Job188 arrives at CPU Queue.
+At time 438, Job191 arrives at CPU Queue.
+At time 438, Job199 arrives at CPU Queue.
+At time 438, Job204 arrives at CPU Queue.
+At time 439, Job205 arrives at CPU Queue.
+At time 442, Job195 arrives at CPU Queue.
+At time 443, Job210 arrives at CPU Queue.
+At time 444, Job202 arrives at CPU Queue.
+At time 445, Job200 arrives at CPU Queue.
+At time 445, Job213 arrives at CPU Queue.
+At time 446, Job208 arrives at CPU Queue.
+At time 448, Job212 arrives at CPU Queue.
+At time 449, Job214 arrives at CPU Queue.
+At time 450, Job203 arrives at CPU Queue.
+At time 451, Job216 arrives at CPU Queue.
+At time 455, Job206 arrives at CPU Queue.
+At time 456, Job201 arrives at CPU Queue.
+At time 457, Job209 arrives at CPU Queue.
+At time 458, Job223 arrives at CPU Queue.
+At time 459, Job221 arrives at CPU Queue.
+At time 460, Job222 arrives at CPU Queue.
+At time 462, Job207 arrives at CPU Queue.
+At time 465, Job215 arrives at CPU Queue.
+At time 466, Job27 finishes at CPU.
+At time 466, Job218 arrives at CPU Queue.
+At time 466, Job25 is in CPU.
+At time 466, Job27 arrives at Disk 2.
+At time 467, Job219 arrives at CPU Queue.
+At time 467, Job230 arrives at CPU Queue.
+At time 469, Job227 arrives at CPU Queue.
+At time 470, Job224 arrives at CPU Queue.
+At time 471, Job211 arrives at CPU Queue.
+At time 473, Job232 arrives at CPU Queue.
+At time 476, Job231 arrives at CPU Queue.
+At time 476, Job233 arrives at CPU Queue.
+At time 477, Job220 arrives at CPU Queue.
+At time 478, Job217 arrives at CPU Queue.
+At time 478, Job226 arrives at CPU Queue.
+At time 480, Job225 arrives at CPU Queue.
+At time 480, Job239 arrives at CPU Queue.
+At time 481, Job236 arrives at CPU Queue.
+At time 481, Job241 arrives at CPU Queue.
+At time 483, Job25 finishes at CPU.
+At time 483, Job25 exits.
+At time 485, Job238 arrives at CPU Queue.
+At time 485, Job24 is in CPU.
+At time 487, Job235 arrives at CPU Queue.
+At time 489, Job234 arrives at CPU Queue.
+At time 492, Job229 arrives at CPU Queue.
+At time 493, Job24 finishes at CPU.
+At time 493, Job247 arrives at CPU Queue.
+At time 493, Job29 is in CPU.
+At time 493, Job24 arrives at Disk 1.
+At time 494, Job228 arrives at CPU Queue.
+At time 494, Job244 arrives at CPU Queue.
+At time 497, Job242 arrives at CPU Queue.
+At time 497, Job29 finishes at CPU.
+At time 497, Job29 exits.
+At time 498, Job237 arrives at CPU Queue.
+At time 498, Job30 is in CPU.
+At time 498, Job250 arrives at CPU Queue.
+At time 500, Job243 arrives at CPU Queue.
+At time 501, Job240 arrives at CPU Queue.
+At time 507, Job248 arrives at CPU Queue.
+At time 507, Job249 arrives at CPU Queue.
+At time 507, Job256 arrives at CPU Queue.
+At time 508, Job255 arrives at CPU Queue.
+At time 509, Job259 arrives at CPU Queue.
+At time 510, Job246 arrives at CPU Queue.
+At time 511, Job245 arrives at CPU Queue.
+At time 511, Job260 arrives at CPU Queue.
+At time 512, Job264 arrives at CPU Queue.
+At time 514, Job251 arrives at CPU Queue.
+At time 518, Job30 finishes at CPU.
+At time 518, Job30 arrives at Disk 1.
+At time 519, Job252 arrives at CPU Queue.
+At time 519, Job7 is in CPU.
+At time 519, Job263 arrives at CPU Queue.
+At time 520, Job253 arrives at CPU Queue.
+At time 522, Job258 arrives at CPU Queue.
+At time 523, Job267 arrives at CPU Queue.
+At time 526, Job254 arrives at CPU Queue.
+At time 528, Job262 arrives at CPU Queue.
+At time 530, Job265 arrives at CPU Queue.
+At time 534, Job257 arrives at CPU Queue.
+At time 534, Job268 arrives at CPU Queue.
+At time 536, Job274 arrives at CPU Queue.
+At time 537, Job7 finishes at CPU.
+At time 537, Job7 arrives at Disk 2.
+At time 538, Job271 arrives at CPU Queue.
+At time 538, Job35 is in CPU.
+At time 539, Job261 arrives at CPU Queue.
+At time 539, Job269 arrives at CPU Queue.
+At time 539, Job272 arrives at CPU Queue.
+At time 539, Job278 arrives at CPU Queue.
+At time 544, Job266 arrives at CPU Queue.
+At time 546, Job277 arrives at CPU Queue.
+At time 547, Job279 arrives at CPU Queue.
+At time 548, Job270 arrives at CPU Queue.
+At time 555, Job276 arrives at CPU Queue.
+At time 555, Job281 arrives at CPU Queue.
+At time 556, Job273 arrives at CPU Queue.
+At time 556, Job286 arrives at CPU Queue.
+At time 558, Job35 finishes at CPU.
+At time 558, Job35 arrives at Disk 1.
+At time 562, Job282 arrives at CPU Queue.
+At time 562, Job31 is in CPU.
+At time 563, Job275 arrives at CPU Queue.
+At time 563, Job285 arrives at CPU Queue.
+At time 564, Job284 arrives at CPU Queue.
+At time 565, Job289 arrives at CPU Queue.
+At time 565, Job295 arrives at CPU Queue.
+At time 567, Job292 arrives at CPU Queue.
+At time 568, Job280 arrives at CPU Queue.
+At time 568, Job283 arrives at CPU Queue.
+At time 568, Job293 arrives at CPU Queue.
+At time 569, Job294 arrives at CPU Queue.
+At time 571, Job290 arrives at CPU Queue.
+At time 571, Job298 arrives at CPU Queue.
+At time 574, Job301 arrives at CPU Queue.
+At time 576, Job299 arrives at CPU Queue.
+At time 581, Job287 arrives at CPU Queue.
+At time 581, Job288 arrives at CPU Queue.
+At time 581, Job300 arrives at CPU Queue.
+At time 581, Job304 arrives at CPU Queue.
+At time 583, Job303 arrives at CPU Queue.
+At time 585, Job31 finishes at CPU.
+At time 585, Job31 arrives at Disk 2.
+At time 587, Job296 arrives at CPU Queue.
+At time 587, Job28 is in CPU.
+At time 589, Job291 arrives at CPU Queue.
+At time 589, Job297 arrives at CPU Queue.
+At time 590, Job309 arrives at CPU Queue.
+At time 593, Job305 arrives at CPU Queue.
+At time 594, Job307 arrives at CPU Queue.
+At time 595, Job302 arrives at CPU Queue.
+At time 596, Job314 arrives at CPU Queue.
+At time 598, Job308 arrives at CPU Queue.
+At time 598, Job310 arrives at CPU Queue.
+At time 604, Job306 arrives at CPU Queue.
+At time 608, Job311 arrives at CPU Queue.
+At time 610, Job318 arrives at CPU Queue.
+At time 611, Job317 arrives at CPU Queue.
+At time 613, Job28 finishes at CPU.
+At time 613, Job28 arrives at Disk 1.
+At time 614, Job316 arrives at CPU Queue.
+At time 614, Job34 is in CPU.
+At time 617, Job313 arrives at CPU Queue.
+At time 618, Job312 arrives at CPU Queue.
+At time 619, Job315 arrives at CPU Queue.
+At time 625, Job324 arrives at CPU Queue.
+At time 626, Job320 arrives at CPU Queue.
+At time 628, Job319 arrives at CPU Queue.
+At time 628, Job325 arrives at CPU Queue.
+At time 633, Job321 arrives at CPU Queue.
+At time 633, Job34 finishes at CPU.
+At time 633, Job34 arrives at Disk 2.
+At time 635, Job328 arrives at CPU Queue.
+At time 635, Job37 is in CPU.
+At time 636, Job322 arrives at CPU Queue.
+At time 638, Job323 arrives at CPU Queue.
+At time 640, Job327 arrives at CPU Queue.
+At time 640, Job331 arrives at CPU Queue.
+At time 640, Job335 arrives at CPU Queue.
+At time 643, Job338 arrives at CPU Queue.
+At time 644, Job332 arrives at CPU Queue.
+At time 646, Job326 arrives at CPU Queue.
+At time 648, Job333 arrives at CPU Queue.
+At time 648, Job340 arrives at CPU Queue.
+At time 649, Job329 arrives at CPU Queue.
+At time 649, Job330 arrives at CPU Queue.
+At time 649, Job337 arrives at CPU Queue.
+At time 649, Job342 arrives at CPU Queue.
+At time 651, Job336 arrives at CPU Queue.
+At time 653, Job37 finishes at CPU.
+At time 653, Job343 arrives at CPU Queue.
+At time 653, Job32 is in CPU.
+At time 653, Job37 arrives at Disk 1.
+At time 655, Job344 arrives at CPU Queue.
+At time 657, Job334 arrives at CPU Queue.
+At time 657, Job339 arrives at CPU Queue.
+At time 658, Job348 arrives at CPU Queue.
+At time 658, Job351 arrives at CPU Queue.
+At time 659, Job345 arrives at CPU Queue.
+At time 660, Job346 arrives at CPU Queue.
+At time 666, Job341 arrives at CPU Queue.
+At time 666, Job353 arrives at CPU Queue.
+At time 669, Job347 arrives at CPU Queue.
+At time 669, Job355 arrives at CPU Queue.
+At time 673, Job349 arrives at CPU Queue.
+At time 673, Job360 arrives at CPU Queue.
+At time 673, Job362 arrives at CPU Queue.
+At time 676, Job32 finishes at CPU.
+At time 676, Job32 arrives at Disk 2.
+At time 677, Job354 arrives at CPU Queue.
+At time 677, Job39 is in CPU.
+At time 678, Job350 arrives at CPU Queue.
+At time 678, Job358 arrives at CPU Queue.
+At time 678, Job363 arrives at CPU Queue.
+At time 678, Job367 arrives at CPU Queue.
+At time 680, Job356 arrives at CPU Queue.
+At time 681, Job361 arrives at CPU Queue.
+At time 684, Job364 arrives at CPU Queue.
+At time 684, Job368 arrives at CPU Queue.
+At time 685, Job352 arrives at CPU Queue.
+At time 686, Job39 finishes at CPU.
+At time 686, Job369 arrives at CPU Queue.
+At time 686, Job36 is in CPU.
+At time 686, Job39 arrives at Disk 1.
+At time 689, Job359 arrives at CPU Queue.
+At time 689, Job36 finishes at CPU.
+At time 689, Job36 arrives at Disk 2.
+At time 690, Job357 arrives at CPU Queue.
+At time 690, Job43 is in CPU.
+At time 690, Job376 arrives at CPU Queue.
+At time 693, Job371 arrives at CPU Queue.
+At time 694, Job366 arrives at CPU Queue.
+At time 695, Job374 arrives at CPU Queue.
+At time 699, Job365 arrives at CPU Queue.
+At time 702, Job379 arrives at CPU Queue.
+At time 702, Job383 arrives at CPU Queue.
+At time 705, Job380 arrives at CPU Queue.
+At time 705, Job382 arrives at CPU Queue.
+At time 706, Job375 arrives at CPU Queue.
+At time 706, Job43 finishes at CPU.
+At time 706, Job43 arrives at Disk 2.
+At time 707, Job372 arrives at CPU Queue.
+At time 707, Job41 is in CPU.
+At time 707, Job377 arrives at CPU Queue.
+At time 708, Job373 arrives at CPU Queue.
+At time 709, Job378 arrives at CPU Queue.
+At time 710, Job370 arrives at CPU Queue.
+At time 711, Job381 arrives at CPU Queue.
+At time 711, Job388 arrives at CPU Queue.
+At time 718, Job386 arrives at CPU Queue.
+At time 720, Job384 arrives at CPU Queue.
+At time 720, Job385 arrives at CPU Queue.
+At time 720, Job394 arrives at CPU Queue.
+At time 724, Job391 arrives at CPU Queue.
+At time 726, Job389 arrives at CPU Queue.
+At time 726, Job392 arrives at CPU Queue.
+At time 727, Job399 arrives at CPU Queue.
+At time 729, Job387 arrives at CPU Queue.
+At time 729, Job390 arrives at CPU Queue.
+At time 732, Job396 arrives at CPU Queue.
+At time 733, Job398 arrives at CPU Queue.
+At time 734, Job41 finishes at CPU.
+At time 734, Job41 exits.
+At time 734, Job400 arrives at CPU Queue.
+At time 734, Job33 is in CPU.
+At time 734, Job406 arrives at CPU Queue.
+At time 735, Job397 arrives at CPU Queue.
+At time 735, Job403 arrives at CPU Queue.
+At time 737, Job401 arrives at CPU Queue.
+At time 737, Job402 arrives at CPU Queue.
+At time 739, Job393 arrives at CPU Queue.
+At time 742, Job404 arrives at CPU Queue.
+At time 743, Job395 arrives at CPU Queue.
+At time 744, Job411 arrives at CPU Queue.
+At time 747, Job413 arrives at CPU Queue.
+At time 748, Job412 arrives at CPU Queue.
+At time 750, Job33 finishes at CPU.
+At time 750, Job33 arrives at Disk 1.
+At time 752, Job405 arrives at CPU Queue.
+At time 752, Job9 is in CPU.
+At time 754, Job409 arrives at CPU Queue.
+At time 755, Job407 arrives at CPU Queue.
+At time 756, Job410 arrives at CPU Queue.
+At time 756, Job421 arrives at CPU Queue.
+At time 757, Job408 arrives at CPU Queue.
+At time 757, Job9 finishes at CPU.
+At time 757, Job9 arrives at Disk 1.
+At time 758, Job414 arrives at CPU Queue.
+At time 758, Job45 is in CPU.
+At time 759, Job45 finishes at CPU.
+At time 759, Job45 exits.
+At time 761, Job417 arrives at CPU Queue.
+At time 761, Job38 is in CPU.
+At time 763, Job418 arrives at CPU Queue.
+At time 767, Job419 arrives at CPU Queue.
+At time 770, Job420 arrives at CPU Queue.
+At time 771, Job416 arrives at CPU Queue.
+At time 772, Job415 arrives at CPU Queue.
+At time 773, Job424 arrives at CPU Queue.
+At time 774, Job422 arrives at CPU Queue.
+At time 774, Job428 arrives at CPU Queue.
+At time 778, Job423 arrives at CPU Queue.
+At time 784, Job433 arrives at CPU Queue.
+At time 785, Job432 arrives at CPU Queue.
+At time 786, Job429 arrives at CPU Queue.
+At time 787, Job426 arrives at CPU Queue.
+At time 788, Job425 arrives at CPU Queue.
+At time 789, Job427 arrives at CPU Queue.
+At time 791, Job38 finishes at CPU.
+At time 791, Job38 arrives at Disk 2.
+At time 794, Job430 arrives at CPU Queue.
+At time 794, Job42 is in CPU.
+At time 794, Job42 finishes at CPU.
+At time 794, Job42 arrives at Disk 1.
+At time 795, Job438 arrives at CPU Queue.
+At time 795, Job46 is in CPU.
+At time 795, Job443 arrives at CPU Queue.
+At time 796, Job431 arrives at CPU Queue.
+At time 797, Job435 arrives at CPU Queue.
+At time 797, Job442 arrives at CPU Queue.
+At time 798, Job439 arrives at CPU Queue.
+At time 799, Job434 arrives at CPU Queue.
+At time 800, Job436 arrives at CPU Queue.
+At time 800, Job444 arrives at CPU Queue.
+At time 800, Job447 arrives at CPU Queue.
+At time 806, Job440 arrives at CPU Queue.
+At time 810, Job449 arrives at CPU Queue.
+At time 811, Job441 arrives at CPU Queue.
+At time 811, Job452 arrives at CPU Queue.
+At time 812, Job437 arrives at CPU Queue.
+At time 813, Job453 arrives at CPU Queue.
+At time 815, Job446 arrives at CPU Queue.
+At time 816, Job458 arrives at CPU Queue.
+At time 817, Job46 finishes at CPU.
+At time 817, Job450 arrives at CPU Queue.
+At time 817, Job40 is in CPU.
+At time 817, Job46 arrives at Disk 2.
+At time 825, Job445 arrives at CPU Queue.
+At time 827, Job457 arrives at CPU Queue.
+At time 828, Job448 arrives at CPU Queue.
+At time 828, Job454 arrives at CPU Queue.
+At time 830, Job451 arrives at CPU Queue.
+At time 831, Job464 arrives at CPU Queue.
+At time 834, Job40 finishes at CPU.
+At time 834, Job465 arrives at CPU Queue.
+At time 834, Job47 is in CPU.
+At time 834, Job40 arrives at Disk 2.
+At time 835, Job468 arrives at CPU Queue.
+At time 836, Job456 arrives at CPU Queue.
+At time 837, Job459 arrives at CPU Queue.
+At time 837, Job471 arrives at CPU Queue.
+At time 838, Job455 arrives at CPU Queue.
+At time 839, Job472 arrives at CPU Queue.
+At time 840, Job461 arrives at CPU Queue.
+At time 843, Job47 finishes at CPU.
+At time 843, Job47 exits.
+At time 844, Job460 arrives at CPU Queue.
+At time 844, Job51 is in CPU.
+At time 844, Job466 arrives at CPU Queue.
+At time 849, Job463 arrives at CPU Queue.
+At time 851, Job473 arrives at CPU Queue.
+At time 852, Job469 arrives at CPU Queue.
+At time 852, Job470 arrives at CPU Queue.
+At time 854, Job467 arrives at CPU Queue.
+At time 855, Job462 arrives at CPU Queue.
+At time 859, Job479 arrives at CPU Queue.
+At time 860, Job481 arrives at CPU Queue.
+At time 861, Job477 arrives at CPU Queue.
+At time 862, Job478 arrives at CPU Queue.
+At time 863, Job474 arrives at CPU Queue.
+At time 864, Job475 arrives at CPU Queue.
+At time 865, Job51 finishes at CPU.
+At time 865, Job51 exits.
+At time 865, Job488 arrives at CPU Queue.
+At time 865, Job52 is in CPU.
+At time 870, Job476 arrives at CPU Queue.
+At time 870, Job489 arrives at CPU Queue.
+At time 871, Job483 arrives at CPU Queue.
+At time 872, Job491 arrives at CPU Queue.
+At time 877, Job482 arrives at CPU Queue.
+At time 877, Job492 arrives at CPU Queue.
+At time 879, Job494 arrives at CPU Queue.
+At time 880, Job480 arrives at CPU Queue.
+At time 880, Job485 arrives at CPU Queue.
+At time 880, Job486 arrives at CPU Queue.
+At time 881, Job487 arrives at CPU Queue.
+At time 882, Job484 arrives at CPU Queue.
+At time 884, Job499 arrives at CPU Queue.
+At time 886, Job490 arrives at CPU Queue.
+At time 889, Job502 arrives at CPU Queue.
+At time 892, Job52 finishes at CPU.
+At time 892, Job503 arrives at CPU Queue.
+At time 892, Job49 is in CPU.
+At time 892, Job52 arrives at Disk 1.
+At time 894, Job495 arrives at CPU Queue.
+At time 894, Job501 arrives at CPU Queue.
+At time 895, Job493 arrives at CPU Queue.
+At time 895, Job49 finishes at CPU.
+At time 895, Job509 arrives at CPU Queue.
+At time 895, Job54 is in CPU.
+At time 895, Job49 arrives at Disk 2.
+At time 898, Job497 arrives at CPU Queue.
+At time 898, Job500 arrives at CPU Queue.
+At time 900, Job510 arrives at CPU Queue.
+At time 901, Job498 arrives at CPU Queue.
+At time 903, Job496 arrives at CPU Queue.
+At time 903, Job505 arrives at CPU Queue.
+At time 904, Job506 arrives at CPU Queue.
+At time 906, Job508 arrives at CPU Queue.
+At time 907, Job54 finishes at CPU.
+At time 907, Job54 arrives at Disk 1.
+At time 908, Job512 arrives at CPU Queue.
+At time 908, Job50 is in CPU.
+At time 909, Job504 arrives at CPU Queue.
+At time 909, Job507 arrives at CPU Queue.
+At time 910, Job513 arrives at CPU Queue.
+At time 913, Job515 arrives at CPU Queue.
+At time 913, Job516 arrives at CPU Queue.
+At time 916, Job511 arrives at CPU Queue.
+At time 916, Job521 arrives at CPU Queue.
+At time 920, Job524 arrives at CPU Queue.
+At time 921, Job520 arrives at CPU Queue.
+At time 923, Job527 arrives at CPU Queue.
+At time 924, Job50 finishes at CPU.
+At time 924, Job525 arrives at CPU Queue.
+At time 924, Job44 is in CPU.
+At time 924, Job50 arrives at Disk 1.
+At time 926, Job528 arrives at CPU Queue.
+At time 927, Job523 arrives at CPU Queue.
+At time 930, Job514 arrives at CPU Queue.
+At time 930, Job531 arrives at CPU Queue.
+At time 933, Job518 arrives at CPU Queue.
+At time 934, Job517 arrives at CPU Queue.
+At time 937, Job519 arrives at CPU Queue.
+At time 937, Job530 arrives at CPU Queue.
+At time 939, Job526 arrives at CPU Queue.
+At time 940, Job522 arrives at CPU Queue.
+At time 940, Job538 arrives at CPU Queue.
+At time 941, Job44 finishes at CPU.
+At time 941, Job44 exits.
+At time 941, Job540 arrives at CPU Queue.
+At time 941, Job55 is in CPU.
+At time 943, Job529 arrives at CPU Queue.
+At time 943, Job536 arrives at CPU Queue.
+At time 949, Job539 arrives at CPU Queue.
+At time 952, Job55 finishes at CPU.
+At time 952, Job55 exits.
+At time 956, Job532 arrives at CPU Queue.
+At time 956, Job59 is in CPU.
+At time 956, Job533 arrives at CPU Queue.
+At time 956, Job534 arrives at CPU Queue.
+At time 959, Job535 arrives at CPU Queue.
+At time 959, Job537 arrives at CPU Queue.
+At time 962, Job544 arrives at CPU Queue.
+At time 963, Job542 arrives at CPU Queue.
+At time 963, Job545 arrives at CPU Queue.
+At time 963, Job548 arrives at CPU Queue.
+At time 963, Job553 arrives at CPU Queue.
+At time 967, Job543 arrives at CPU Queue.
+At time 968, Job549 arrives at CPU Queue.
+At time 970, Job541 arrives at CPU Queue.
+At time 971, Job550 arrives at CPU Queue.
+At time 973, Job552 arrives at CPU Queue.
+At time 974, Job59 finishes at CPU.
+At time 974, Job59 arrives at Disk 2.
+At time 976, Job560 arrives at CPU Queue.
+At time 976, Job48 is in CPU.
+At time 980, Job546 arrives at CPU Queue.
+At time 980, Job547 arrives at CPU Queue.
+At time 980, Job48 finishes at CPU.
+At time 980, Job48 exits.
+At time 980, Job563 arrives at CPU Queue.
+At time 980, Job57 is in CPU.
+At time 982, Job557 arrives at CPU Queue.
+At time 982, Job558 arrives at CPU Queue.
+At time 983, Job554 arrives at CPU Queue.
+At time 983, Job561 arrives at CPU Queue.
+At time 985, Job555 arrives at CPU Queue.
+At time 985, Job556 arrives at CPU Queue.
+At time 987, Job57 finishes at CPU.
+At time 987, Job57 arrives at Disk 1.
+At time 988, Job551 arrives at CPU Queue.
+At time 988, Job11 is in CPU.
+At time 990, Job559 arrives at CPU Queue.
+At time 990, Job568 arrives at CPU Queue.
+At time 992, Job567 arrives at CPU Queue.
+At time 995, Job570 arrives at CPU Queue.
+At time 996, Job564 arrives at CPU Queue.
+At time 996, Job566 arrives at CPU Queue.
+At time 996, Job572 arrives at CPU Queue.
+At time 996, Job577 arrives at CPU Queue.
+At time 998, Job569 arrives at CPU Queue.
+At time 998, Job580 arrives at CPU Queue.
+At time 0, Job1 arrives at CPU Queue.
+At time 0, Job1 is in CPU.
+At time 159, Job2 arrives at CPU Queue.
+At time 198, Job1 finishes at CPU.
+At time 198, Job1 arrives at Disk 2.
+At time 253, Job3 arrives at CPU Queue.
+At time 253, Job2 is in CPU.
+At time 374, Job4 arrives at CPU Queue.
+At time 380, Job1 finished at Disk 2.
+At time 380, Job1 arrives at CPU Queue.
+At time 447, Job5 arrives at CPU Queue.
+At time 472, Job6 arrives at CPU Queue.
+At time 488, Job2 finishes at CPU.
+At time 488, Job2 arrives at Disk 2.
+At time 594, Job2 finished at Disk 2.
+At time 594, Job2 arrives at CPU Queue.
+At time 594, Job3 is in CPU.
+At time 658, Job9 arrives at CPU Queue.
+At time 661, Job7 arrives at CPU Queue.
+At time 700, Job11 arrives at CPU Queue.
+At time 706, Job10 arrives at CPU Queue.
+At time 713, Job8 arrives at CPU Queue.
+At time 757, Job12 arrives at CPU Queue.
+At time 770, Job3 finishes at CPU.
+At time 770, Job3 arrives at Disk 1.
+At time 862, Job15 arrives at CPU Queue.
+At time 862, Job4 is in CPU.
+At time 866, Job13 arrives at CPU Queue.
+At time 883, Job14 arrives at CPU Queue.
+At time 883, Job17 arrives at CPU Queue.
